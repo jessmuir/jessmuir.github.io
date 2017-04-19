@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jessie Muir's personal site [under construction]
 
 You can use the [editor on GitHub](https://github.com/jessmuir/jessmuir.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
