@@ -78,8 +78,8 @@ author:
   name             : "Jessie Muir"
   avatar           : "jessie-headshot-15-websize.jpg"
   bio              : "Porat Fellow, cosmologist"
-#  location         : 
-  employer         :"KIPAC @ Stanford"
+  location         : "KIPAC @ Stanford"
+  employer         :
   googlescholar    : 
   email            : "jlmuir [at] stanford [dot] edu"
   uri              :
