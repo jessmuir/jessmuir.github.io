@@ -57,17 +57,13 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
@@ -79,15 +75,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Jessie Muir"
+  avatar           : "jessie-headshot-15-websize.jpg"
+  bio              : "Porat Fellow, cosmologist"
+  location         : "KIPAC @ Stanford"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "jlmuir [at] stanford [dot] edu
   uri              :
-  bitbucket        :
+  bitbucket        : "jessmuir"
   codepen          :
   dribbble         :
   flickr           :
@@ -99,13 +95,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7579-770X
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "jlynnmuir"
   vine             :
   weibo            :
   xing             :
