@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+* This website is a work in progress, updates coming gradually. *
 
-A data-driven personal website
+I am a postdoc at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University. I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone.
+
+Bio
 ======
+
+A native Michigander, I grew up in a suburb of Detroit (Romeo) and received my undergraduate degree from Michigan State University. I spent two years at the University of Cambridge as a Marshall Scholar where I completed Part III of the Mathematical Tripos and spent a year working on research on modified gravity with Professor Anne-Christine Davis. I did my PhD in the University of Michigan's [Department of Physics](http://www.lsa.umich.edu/physics), where I worked with [Professor Dragan Huterer](http://www-personal.umich.edu/~huterer/cosmo_website/people.html) as part of the Michigan cosmology group.  
+
+
+
+Current and recent projects
+======
+
+* **Beyond standard-model cosmology for DES Year 3** -  The [Dark Energy Survey (DES)](https://www.darkenergysurvey.org/) is an ongoing project to map the distribution of matter in 1/8th of the sky, and to use the information gathered from that survey to place constraints on, among other things, dark energy properties. With [Agnes Ferte](https://science.jpl.nasa.gov/people/Ferte/) I am co-leading the DES analysis team that will be using Year 3 data to constrain a set of simple extensions to our standard cosmological model, including dynamic dark energy, non-flat geometry, sterile neutrinos, and modified gravity. 
+
+* **Blinding for the DES analysis** - DES and other modern cosmological experiments aim to make more and more precise measurements to constrain cosmological paramters, and to use those constraints to test our standard cosmological model, LCDM. In doing this, we either look at how parameters describing possible new physics compare to their LCDM values, or how the results of different experiments compare to one another. We want to ensure that the many decisions requrired to go from raw observables to parameter estimation, are not influenced (even unconsciously) by how the results of the analysis compare to the experimenters' expectations. One  tool we can use to prevent experimenter bias from influencing the results of precise cosmological analyses is to blind the analysis, or to modify the data in some way that changes the output of parameter estimation. This is challenging to do for DES, as its analysis relies on the analysis of many different observable probes. I am leading the development and validation of a method  blind multi-probe cosmology analyses by modifying summary statistics, namely the two-point correlation functions for galaxy clustering and weak lensing. 
+
+
+* **Growth-geometry split analysis of DES data** - Many models of modified gravity can produce the same expansion history as $\Lambda$CDM, the standard cosmological model of a cosmological constant + cold dark matter + general relativity, but will differ in their predictions for structure growth. The idea of the grow-geometry split analysis is to separately constrain the LCDM parameters using probes of expansion and structure growth, and then to use the comparison of those constraints as a consistency test of LCDM. I'm currently implementing and testing a pipeline to run this kind of analysis on the Year-1 data for DES. I'm also generally interested in using galaxy survey data to test for modified gravity via phenomenological parameterizations of deviations from general relativity.
+
+* **CMB anomaly covariances** - For the most part, data from the CMB have been found to be in remarkable agreement with the predictions of LCDM. However, there are a handful of features on very large angular scales which are statistically unlikely in LCDM, which have been the subject of much study. I used ensembles of simulated skies to characterize the extent to which these various anomalies are independent and published the results in [this paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.023521).
+
+* ISW signal reconstruction - The integrated Sachs-Wolfe (ISW) effect is a result of the fact that the energy of cosmic microwave background (CMB) photons gets modulated when pass through gravitational potential wells associated with large scale structure (LSS) on their way from the surface of last scattering to us. This energy modulation contributes to CMB temperature anisotropies at large angles. One can use theoretical cross correlations and maps of LSS tracers to try to reconstruct a map of the ISW signal. In two  papers ([here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.043503) and [here](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.043515)), I explored how different survey properties and systematics affecting the input galaxy maps impacted the accuracy of this kind of ISW signal reconstruction.
+
+
+
+<!---
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
@@ -48,3 +72,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
