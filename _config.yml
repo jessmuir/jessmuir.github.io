@@ -78,8 +78,8 @@ author:
   name             : "Jessie Muir"
   avatar           : "jessie-headshot-15-websize.jpg"
   bio              : "Porat Fellow, cosmologist"
-  location         : "KIPAC @ Stanford"
-  employer         :
+  location         : 
+  employer         :"KIPAC @ Stanford"
   googlescholar    : 
   email            : "jlmuir [at] stanford [dot] edu"
   uri              :
@@ -95,7 +95,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-7579-770X
+  orcid            : "https://orcid.org/0000-0002-7579-770X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -107,6 +107,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  inspire	   : "https://inspirehep.net/author/profile/Jessica.Muir.1"
 
 
 # Reading Files
