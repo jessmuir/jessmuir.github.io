@@ -6,6 +6,16 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+orchid:
+  name: "ORCHID"
+  baseURL: "https://orcid.org/"
+  icon: "ai-orchid"
+
+inspire:
+  name: "Inspire"
+  baseURL: "https://inspirehep.net/author/profile/"
+  icon: "fa-info"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
