@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Jessie Muir 
-subtitle: Theory and data analysis to test the standard cosmological model. Porat Fellow at KIPAC, Stanford. 
-use-site-title: false
+title: About me
+subtitle: This is where I will tell my friends way too much about me
+use-site-title: true
 ---
 
 <div class="posts-list">
