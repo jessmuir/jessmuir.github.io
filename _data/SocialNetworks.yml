@@ -9,7 +9,7 @@
 orchid:
   name: "ORCHID"
   baseURL: "https://orcid.org/"
-  icon: "ai-orchid"
+  icon: "fa-id-card"
 
 inspire:
   name: "Inspire"
