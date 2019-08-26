@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: posts
 title: Cartoons
 subtitle: and other science-related artwork
 use-site-title: true
