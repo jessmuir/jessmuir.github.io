@@ -3,6 +3,8 @@ layout: page
 title: Research
 # use-site-title: false
 ---
+A list of my publications can be found on [my Inspire page](https://inspirehep.net/author/profile/Jessica.Muir.1). 
+
 ## Current & recent projects
 
 * **DES Year 3 extended cosmological models** - The Dark Energy Survey (DES) is an ongoing project to map 1/8th of the sky, and to use the information gathered from that survey to place constraints on, among other things, dark energy properties. With Agnes Ferte (JPL), I am coleading the DES analysis team focused on constraining extended (beyond wCDM) models with galaxy clustering and weak lensing data gathered during the first three years of the Dark Energy Survey. We're focused on several constrainable, phenomenological parameterizations of physics beyond the cosmological standard model, including time-dependent dark energy, sterile neutrinos, modified gravity, non-zero curvature, and empirical redshift-dependent tests of LCDM predictions for structure growth. 
