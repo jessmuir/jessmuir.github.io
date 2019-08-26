@@ -22,7 +22,7 @@ A native Michigander, I grew up in a suburb of Detroit (Romeo) and received my u
 ---
 ## Education
 
-PhD Physics - University of Michigan, 2018.
-MPhil in Astronomy - Gonville and Caius College, University of Cambridge, 2013.
-MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012. 
-B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
+* PhD Physics - University of Michigan, 2018.
+* MPhil in Astronomy - Gonville and Caius College, University of Cambridge, 2013.
+* MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012. 
+* B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
