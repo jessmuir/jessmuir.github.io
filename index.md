@@ -9,16 +9,17 @@ I'm a Porat Fellow at the [Kavli Institute for Particle Astrophysics and Cosmolo
 
 A native Michigander, I grew up in a suburb of Detroit (Romeo) and received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on research on modified gravity with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's Department of Physics, where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/cosmo_website/people.html).
 
+---
 ## Links & contact
 
 * Email: jlmuir ~at~ stanford ~dot~ edu
-* [INSPIRE page](https://inspirehep.net/author/profile/Jessica.Muir.1)
-* ORCHID ID: [http://orcid.org/0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
+* INSPIRE: [Jessia.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
+* ORCHID ID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
 * github: [jessmuir](https://github.com/jessmuir)
 * twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
 
 
-
+---
 ## Education
 
 PhD Physics - University of Michigan, 2018.
