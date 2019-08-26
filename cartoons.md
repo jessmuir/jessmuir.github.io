@@ -10,6 +10,8 @@ I've occasionally made cartoons to explain (mostly cosmology-related) concepts f
 
 I also have higher resolution versions of several of them, or individual frames of gifs, which I could provide upon request.
 
+<!--
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
@@ -75,3 +77,5 @@ I also have higher resolution versions of several of them, or individual frames 
   {% endif %}
 </ul>
 {% endif %}
+
+-->
