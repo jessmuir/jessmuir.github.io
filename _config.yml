@@ -21,7 +21,7 @@ description: Personal site.
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Publications: "pubs"
+  # Publications: "pubs"
   Travel: "travel"
   Cartoons: "cartoons"	
 
