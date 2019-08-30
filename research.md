@@ -17,7 +17,7 @@ A list of my publications can be found on [my Inspire page](https://inspirehep.n
 
 * **ISW signal reconstruction** - The integrated Sachs-Wolfe (ISW) effect is a result of the fact that the energy of cosmic microwave background (CMB) photons gets modulated when pass through gravitational potential wells associated with large scale structure (LSS) on their way from the surface of last scattering to us. This energy modulation contributes to CMB temperature anisotropies at large angles. One can use theoretical cross correlations and maps of LSS tracers to try to reconstruct a map of the ISW signal. In two papers ([here](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.043503) and [here](https://arxiv.org/abs/1709.08661)), I explored how different survey properties and systematics affecting the input galaxy maps impacted the accuracy of this kind of ISW signal reconstruction.
 
-* ** Astrophysical black holes and modified gravity** - For a master's project,  I did an exploratory study of how the infall of objects into black holes would be affected by a class of extensions to general relativity in which a new gravitational field interacts with matter in the black hole's accretion disk. The project is described in [this paper](https://iopscience.iop.org/article/10.1088/1475-7516/2014/08/033).
+* **Astrophysical black holes and modified gravity** - For a master's project,  I did an exploratory study of how the infall of objects into black holes would be affected by a class of extensions to general relativity in which a new gravitational field interacts with matter in the black hole's accretion disk. The project is described in [this paper](https://iopscience.iop.org/article/10.1088/1475-7516/2014/08/033).
 
 ## Other activities
 
