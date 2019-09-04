@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-# use-site-title: false
+use-site-title: true
 ---
 A list of my publications can be found on [my Inspire page](https://inspirehep.net/author/profile/Jessica.Muir.1). 
 
