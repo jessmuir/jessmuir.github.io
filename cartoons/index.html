@@ -12,33 +12,33 @@ social-share: true
 
 <hr>
 
-<div class="posts">
-  <div class="grid-small">
-    <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
+<!-- <div class="posts"> -->
+<!--   <div class="grid-small"> -->
+<!--     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns> -->
 
-      {% for post in paginator.posts %}
+<!--       {% for post in paginator.posts %} -->
 
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
+<!--         <\!-- The tag below includes the markup for each post - partials/post-card.html -\-> -->
+<!--         {% include post-card.html %} -->
 
-      {% endfor %}
-    </div>
-  </div>
+<!--       {% endfor %} -->
+<!--     </div> -->
+<!--   </div> -->
 
-  {% include pagination.html %}
-</div>
+<!--   {% include pagination.html %} -->
+<!-- </div> -->
 
-<!-- {% if paginator.total_pages > 1 %} -->
-<!-- <ul class="pager main-pager"> -->
-<!--   {% if paginator.previous_page %} -->
-<!--   <li class="previous"> -->
-<!--     <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a> -->
-<!--   </li> -->
-<!--   {% endif %} -->
-<!--   {% if paginator.next_page %} -->
-<!--   <li class="next"> -->
-<!--     <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a> -->
-<!--   </li> -->
-<!--   {% endif %} -->
-<!-- </ul> -->
-<!-- {% endif %} -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
