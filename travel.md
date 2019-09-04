@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Travel
+use-site-title: true
 # subtitle: 
 ---
 ## Upcoming
