@@ -3,7 +3,6 @@ layout: page
 title: Jessie Muir 
 subtitle: Porat Fellow at Stanford. Cosmology theory and data analysis to learn about fundamental physics. 
 use-site-title: true
-#image: /img/jessie-headshot-15.jpg
 share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
 ---
 ![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes, taken by Jenn Chen")
