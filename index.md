@@ -14,8 +14,8 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 The headshot above was taken by [Jenn Chen](https://jennchen.com). 
 
 ---
-## CV
-[My CV is here.](http://www.jessiemuir.com/Muir\ CV\ may\ 2019.pdf) Contact me for a more up-to-date version. 
+## CV: [linked here](http://www.jessiemuir.com/Muir\ CV\ may\ 2019.pdf)
+Contact me for a more up-to-date version. 
 
 ---
 ## Links & contact
