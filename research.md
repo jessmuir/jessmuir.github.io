@@ -3,7 +3,8 @@ layout: page
 title: Research
 use-site-title: true
 ---
-A list of my publications can be found on [my Inspire page](https://inspirehep.net/author/profile/Jessica.Muir.1). 
+A list of my publications can be found on [my Inspire page](https://inspirehep.net/author/profile/Jessica.Muir.1).
+![](/cartoons/images/Cosmology_Tube6.all.jpg)
 
 ## Current & recent projects
 
