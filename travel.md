@@ -14,4 +14,4 @@ use-site-title: true
 
 ## Past
 
-![](/cartoons/images/telescope_photo.jpg)
+![](/img/telescope_photo.jpg)
