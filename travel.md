@@ -14,4 +14,4 @@ use-site-title: true
 
 ## Past
 
-![](/cartoons/images/Muir_Blanco_drawing_2018_cropped_edited_small.jpg)
+![](/cartoons/images/telescope_photo.jpg)
