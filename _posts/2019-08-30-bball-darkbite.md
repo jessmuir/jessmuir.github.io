@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Basketball Darkbite
-image: /cartoons/images/
-share-img: http://www.jessiemuir.com/cartoons/images/
+image: /cartoons/images/bballdistances_jm1.jpg
+share-img: http://www.jessiemuir.com/cartoons/images/bballdistances_jm1.jpg
 social-share: true
 use-site-title: true
 ---
@@ -11,5 +11,5 @@ I've drawn a couple of cartoons for Darkbites, a social media based outreach eff
 
 This illustration was drawn to illustrate the statement: "If the Earth were the size of a basketball and placed in the hoop, the moon would be roughly at the three-point line. The sun would be 100 court lengths away!"
 
-![](/cartoons/images/StepstoVega_JM2_20160831.JPG)
+![](/cartoons/images/bballdistances_jm1.jpg)
 
