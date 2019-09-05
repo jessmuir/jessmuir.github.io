@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yo-yo rotation curves
-image: /cartoons/image/rotationcurve4_star.png
+image: /cartoons/images/rotationcurve4_star.png
 share-img: http://www.jessiemuir.com/cartoons/images/rotationcurve4_star.png
 social-share: true
 use-site-title: true
