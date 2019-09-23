@@ -21,7 +21,7 @@ Contact me for a more up-to-date version.
 ## Links & contact
 
 * Email: jlmuir ~at~ stanford ~dot~ edu
-* INSPIRE: [Jessia.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
+* INSPIRE: [Jessica.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
 * ORCHID ID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
 * github: [jessmuir](https://github.com/jessmuir)
 * twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
