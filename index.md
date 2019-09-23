@@ -30,7 +30,7 @@ Contact me for a more up-to-date version.
 ---
 ## Education
 
-* PhD Physics - University of Michigan, 2018.
+* PhD in Physics - University of Michigan, 2018.
 * MPhil in Astronomy - Gonville and Caius College, University of Cambridge, 2013.
 * MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012. 
 * B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
