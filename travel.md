@@ -8,7 +8,7 @@ use-site-title: true
 
 In light of the COVID-19 pandemic, all travel is cancelled for the foreseeable future.  
 
-* April 18&ndash;21, 2020 - APS April meeting, ~~Washinton, DC.~~ [Giving talk](http://meetings.aps.org/Meeting/APR20/Session/C03) as finalist for Cecilia Payne-Gaposchkin Thesis Prize. Talk will likely be moved online in some form. 
+* April 18&ndash;21, 2020 - APS April meeting, ~~Washinton, DC.~~ [Gave a remote talk](http://meetings.aps.org/Meeting/APR20/Session/C03) as finalist for Cecilia Payne-Gaposchkin Thesis Prize. A recording of the talk [can be found here](https://aps-april.onlineeventpro.freeman.com/live-stream/15336164/C03-Invited-Session-Cecilia-Payne-Gaposchkin-Thesis-Prize). (You may have to make an account on the APS website to see it.)
 * May 18&ndash;22, 2020 - ~~Duke University, Durham, NC,~~ DES collaboration meeting (may be moving online? TBD)
 
 ## Recent past
