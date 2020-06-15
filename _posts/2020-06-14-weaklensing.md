@@ -8,11 +8,8 @@ use-site-title: true
 ---
 Animation:
 
-{% comment %}
-![alt="Gif animation explaining weak lensing. When large scale structure appears between distant galaxies and a telescope, lines showing the path of light go from straight to bent. Comic-style speech bubbles show pictures of the galaxies as they would appear for the telescope. When the light is deflected, the images of the background galaxies are distorted."](/cartoons/images/Weak_Lensing_Animation_all-appear.gif )
-{% endcomment %}
 
-<img src="/cartoons/images/Weak_Lensing_Animation_all-appear.gif" alt=""Gif animation explaining weak lensing. When large scale structure appears between distant galaxies and a telescope, lines showing the path of light go from straight to bent. Comic-style speech bubbles show pictures of the galaxies as they would appear for the telescope. When the light is deflected, the images of the background galaxies are distorted." width="200"/>
+![alt="Gif animation explaining weak lensing. When large scale structure appears between distant galaxies and a telescope, lines showing the path of light go from straight to bent. Comic-style speech bubbles show pictures of the galaxies as they would appear for the telescope. When the light is deflected, the images of the background galaxies are distorted."](/cartoons/images/Weak_Lensing_Animation_all-appear.gif )
 Annoyingly, exporting this as a gif causes the background to become off-white. 
 
 Still:
