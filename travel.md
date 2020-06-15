@@ -6,7 +6,7 @@ use-site-title: true
 ---
 ## Upcoming
 
-In light of the COVID-19 pandemic, all travel is cancelled for the foreseeable future.  
+In light of the COVID-19 pandemic, all of my travel is cancelled for the foreseeable future.  
 
 
 ## Recent past
