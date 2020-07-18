@@ -26,6 +26,10 @@ Contact me for a more up-to-date version.
 * github: [jessmuir](https://github.com/jessmuir)
 * twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
 
+Recordings of talks:
+* ["Echoes of the Early Universe"](https://www.youtube.com/watch?v=FDKzkWo0ucQ) (Public lecture, 1hr) -  I gave this talk for the general public in July 2020 as part of KIPAC's online "Discover" series. It's about the  Cosmic Micorwave Background, and how we can use measurements of it to learn about the history of the Universe and about fundamental physics.
+* ["Towards precision cosmology on the largest observable scales"](http://meetings.aps.org/Meeting/APR20/Session/C03.3) (Technical talk, 30m) - This is a talk I gave as a finalist for the APS [Cecilia Payne-Gaposchkin Thesis Prize](https://www.aps.org/programs/honors/prizes/astrophysics.cfm#:~:text=Award%20in%20Astrophysics-,Cecilia%20Payne-Gaposchkin%20Doctoral%20Dissertation%20Award%20in%20Astrophysics), during a virtual session of the 2020 APS April meeting. It covers my dissertation projects  on [ISW signal reconstruction](https://inspirehep.net/literature/1431943), [CMB large-angle anomaly covariances](https://inspirehep.net/literature/1676866), and  [multi-probe blinding](https://inspirehep.net/literature/1765119) for cosmology analysis. 
+
 
 ---
 ## Education
