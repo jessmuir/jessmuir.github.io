@@ -15,8 +15,6 @@ The headshot above was taken by [Jenn Chen](https://jennchen.com).
 
 ---
 ## CV: [linked here](http://www.jessiemuir.com/Muir-CV-feb-2020.pdf)
-Contact me for a more up-to-date version. 
-
 ---
 ## Links & contact
 
