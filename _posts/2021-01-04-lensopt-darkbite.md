@@ -19,4 +19,4 @@ The post's associated text was:
 > 
 > This paper explores how to pick lens galaxies to optimize the amount of information they provide: [https://arxiv.org/abs/2011.03411](https://arxiv.org/abs/2011.03411)
 
-[The twitter thread of the Y3 Darkbites posts begins here.](https://twitter.com/theDESurvey/status/1334937310606004227) The same images are also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
+[Here's a link to the post.](https://twitter.com/theDESurvey/status/1338918945273876485) The twitter thread of the Y3 Darkbites posts [begins here](https://twitter.com/theDESurvey/status/1334937310606004227). The cartoons also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
