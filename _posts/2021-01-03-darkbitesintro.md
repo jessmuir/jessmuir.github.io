@@ -7,7 +7,7 @@ social-share: true
 use-site-title: true
 ---
 
-I'm contributing to [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click), a series of social media posts that will highlight the series of papers being released as part of the Dark Energy Survey's Year 3 galaxy clustering and weak lensing analysis. I'm primiarly working with Ross Cawthon (Wisconson) and Chihway Chang (Chicago) to coordinate this project, though a number of other DES members are contributing artwork and writing to the posts. I edited the text of a large fraction of the ~30 posts and contributed artwork for about a quarter of them. I'm planning on uploading the artwork I contributed here as the associated posts become public.  
+I'm contributing to [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click), a series of social media posts that will highlight the  of papers describing the Dark Energy Survey's Year 3 galaxy clustering and weak lensing analysis. I'm  working with Ross Cawthon (Wisconson) and Chihway Chang (Chicago) to coordinate this project, and a number of other DES members are contributing artwork and writing to the posts. I edited the text of a large fraction of the ~30 posts and contributed artwork for about a quarter of them. I'm planning on uploading that artwork here as the associated posts become public.  
 
 [The twitter thread of the Y3 Darkbites posts begins here.](https://twitter.com/theDESurvey/status/1334937310606004227) The same images are also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
 
@@ -16,7 +16,7 @@ This image was used as [part of the post](https://twitter.com/theDESurvey/status
 
 ![alt="Cartoon zoom window with self portraits of the darkbites contributors shown in each panel."](/cartoons/images/Intro_Portraits.jpg)
 
-Each of the contributors drew their own self portrait. I drew the laptop and zoom setup, and inserted the individual drawings into the collage.  The associated text on the post was:
+Each of the contributors drew their own self portrait. I drew the laptop and zoom setup, and inserted the individual drawings into the collage.  The associated text was:
 > Thanks to [@astroalexamon](https://twitter.com/astroalexamon) [@CosmoloGirl](https://twitter.com/CosmoloGirl) and Niall for curating the excellent [#thisisDES](https://twitter.com/hashtag/thisisDES?src=hashtag_click) series! If you missed it, be sure to check out their of posts about the journey to DES science: [https://twitter.com/theDESurvey/status/1317886835599712256](https://twitter.com/theDESurvey/status/1317886835599712256)
 > 
 > Now that we’ve completed that cosmological journey, we’re going to shift gears to feature some of the papers that have been released for the DES Year 3 (Y3) analysis. 
