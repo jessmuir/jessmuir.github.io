@@ -7,7 +7,7 @@ social-share: true
 use-site-title: true
 ---
 
-I'm contributing to [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click), a series of social media posts that will highlight the  of papers describing the Dark Energy Survey's Year 3 galaxy clustering and weak lensing analysis. I'm  working with Ross Cawthon (Wisconson) and Chihway Chang (Chicago) to coordinate this project, and a number of other DES members are contributing artwork and writing to the posts. I edited the text of a large fraction of the ~30 posts and contributed artwork for about a quarter of them. I'm planning on uploading that artwork here as the associated posts become public.  
+I'm contributing to [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click), a series of social media posts that will highlight the papers describing the Dark Energy Survey's Year 3 galaxy clustering and weak lensing analysis. I'm  working with Ross Cawthon (Wisconson) and Chihway Chang (Chicago) to coordinate this project, and a number of other DES members are contributing artwork and writing. I edited the text of a large fraction of the ~30 posts and contributed artwork for about a quarter of them. I'm planning on uploading that artwork here as the posts become public.  
 
 [The twitter thread of the Y3 Darkbites posts begins here.](https://twitter.com/theDESurvey/status/1334937310606004227) The same images are also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
 
