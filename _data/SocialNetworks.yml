@@ -6,8 +6,8 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
-orchid:
-  name: "ORCHID"
+orcid:
+  name: "ORCID"
   baseURL: "https://orcid.org/"
   icon: "fa-orcid"
 
