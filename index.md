@@ -5,7 +5,7 @@ subtitle: Porat Fellow at Stanford. Cosmology theory and data analysis to learn 
 use-site-title: true
 share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
 ---
-![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes, taken by Jenn Chen")
+![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes.")
 
 I'm a Porat Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone.  I'm part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html), and do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration.
 
