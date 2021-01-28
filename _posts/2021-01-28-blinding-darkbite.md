@@ -19,7 +19,7 @@ The post's associated text was:
 
 When I shared this image on facebook, I added the additional text for context:
 > Over the past couple months I've been working with some other scientists in the Dark Energy Survey to put together some illustrations to advertise and explain papers that are being released about the analysis of the survey's first three years of data. The post today is on a paper I led, which introduces the method we use to protect our cosmology results from unconscious experimenter bias. (The motivation here is the same reason drugs get compared to placebos in double-blind trials in medicine.)
-
+>
 > In addition to being proud of the paper, I had fun doing the illustration for this one. I tried to draw it in the style of the Flammarion engraving, which I've seen appear in various textbooks and other contexts referencing our efforts as humans to better understand the Universe. I enjoyed playing with inserting some more modern aspects of how we do cosmology. If you compare the the pictures, you'll see that I pretty directly copied some of border and background designs: [https://en.wikipedia.org/wiki/Flammarion_engraving](https://en.wikipedia.org/wiki/Flammarion_engraving)
 
 
