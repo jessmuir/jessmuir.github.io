@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Darkbite: protecting against experimenter bias
+title: Darkbite on protecting against experimenter bias
 image: /cartoons/images/Blinding_Dark_bite_english.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Blinding_Dark_bite_english.jpg
 social-share: true
