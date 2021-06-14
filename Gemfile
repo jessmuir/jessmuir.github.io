@@ -6,4 +6,6 @@ gem "github-pages", '197', group: :jekyll_plugins
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'jekyll-paginate'
 
+# gem "jekyll", "~> 3.8.5"
+
 
