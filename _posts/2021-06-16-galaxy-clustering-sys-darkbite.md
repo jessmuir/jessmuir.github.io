@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Darkbite on galaxy clustering and systematics
-image: /cartoons/images/Galaxy_Clustering_And_Systematics_Crop.jpg
-share-img: http://www.jessiemuir.com/cartoons/images/Galaxy_Clustering_And_Systematics_Crop.jpg
+image: /cartoons/images/Galaxy_Clustering_And_Systematics_For_Gif_Low_Res.gif
+share-img: http://www.jessiemuir.com/cartoons/images/Galaxy_Clustering_And_Systematics_For_Gif_Low_Res.gif
 social-share: true
 use-site-title: true
 ---
