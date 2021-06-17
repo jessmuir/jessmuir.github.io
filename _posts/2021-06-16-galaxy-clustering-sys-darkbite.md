@@ -15,7 +15,7 @@ The post's associated text was:
 
 > The way galaxies cluster together tells us about how structures in the Universe form and evolve, but to see them we have to look through Earth’s atmosphere and the stars in our own galaxy. We have to correct for contaminations before we can learn about distant galaxies.
 
-[Here's a link to the post [TBD].]() The twitter thread of the Y3 Darkbites posts [begins here](https://twitter.com/theDESurvey/status/1334937310606004227). The cartoons also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
+[Here's a link to the post.](https://twitter.com/theDESurvey/status/1405197552664854532) The twitter thread of the Y3 Darkbites posts [begins here](https://twitter.com/theDESurvey/status/1334937310606004227). The cartoons also being shared on the DES [facebook](https://www.facebook.com/darkenergysurvey) and [instagram](https://www.instagram.com/darkenergysurvey/) pages.
 
 
 Here's a non-animated version of the illustration:
