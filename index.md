@@ -1,17 +1,15 @@
 ---
 layout: page
 title: Jessie Muir
-subtitle: Porat Fellow at Stanford. Cosmology theory and data analysis to learn about fundamental physics.
+subtitle: Postdoctoral Fellow at Perimeter Institute. Cosmology theory and data analysis to learn about fundamental physics.
 use-site-title: true
 share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
 ---
 ![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes.")
 
-I'm a Porat Fellow at the [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone.  I'm part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html), and do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration.
+I'm a Postdoctoral fellow at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/). I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone. I do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration, where I co-lead the analysis team performing a combined analysis of galaxy clustering and weak lensing to constrain extensions to the standard cosmological model.
 
-In September 2021 I'll be moving to a new position as a Postdoctoral Fellow at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/).
-
-I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/).
+I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/). Before I came to Perimeter Institute, I was a Porat Fellow at [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. where I was part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html).
 
 The headshot above was taken by [Jenn Chen](https://jennchen.com).
 
@@ -20,7 +18,7 @@ The headshot above was taken by [Jenn Chen](https://jennchen.com).
 ---
 ## Links & contact
 
-* Email: jlmuir ~at~ stanford ~dot~ edu
+* Email: jmuir ~at~ perimeterinstitute ~dot~ ca
 * INSPIRE: [Jessica.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
 * ORCID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
 * github: [jessmuir](https://github.com/jessmuir)
