@@ -24,4 +24,3 @@ A list of my publications can be found on [this ADS bibliography](https://ui.ads
 
 Though I can't really claim it as a project, I was lucky enough to be on observing shift during the tail end of the DES follow-up observations of the binary neutron star collision detected by LIGO in August 2017. Data I took played a small role in [these](http://iopscience.iop.org/article/10.3847/2041-8213/aa9059/meta;jsessionid=12CB5314CAB277922B613D244472B04A.c3.iopscience.cld.iop.org) [three](https://www.nature.com/nature/journal/vaap/ncurrent/full/nature24471.html) [papers](http://iopscience.iop.org/article/10.3847/2041-8213/aa8fc7/meta).   
 
-![](/img/JessieMuir_CMBball.jpg)
