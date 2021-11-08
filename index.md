@@ -3,15 +3,14 @@ layout: page
 title: Jessie Muir
 subtitle: Postdoctoral Fellow at Perimeter Institute. Cosmology theory and data analysis to learn about fundamental physics.
 use-site-title: true
-share-img: http://www.jessiemuir.com/img/jessie-headshot-15.jpg
+share-img: http://www.jessiemuir.com/img/headshot_07-web_PI_2021.jpg
 ---
-![](/img/jessie-headshot-15.jpg "Portrait of Jessie smiling in front of some bushes.")
+![](/img/headshot_07-web_PI_2021.jpg "Portrait of Jessie taken at Perimeter Institute in fall 2021.")
 
 I'm a Postdoctoral fellow at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/). I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone. I do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration, where I co-lead the analysis team performing a combined analysis of galaxy clustering and weak lensing to constrain extensions to the standard cosmological model.
 
 I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/). Before I came to Perimeter Institute, I was a Porat Fellow at [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. where I was part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html).
 
-The headshot above was taken by [Jenn Chen](https://jennchen.com).
 
 ---
 ## CV: [linked here](Muir-CV-july2021.pdf)
