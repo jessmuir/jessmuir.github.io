@@ -7,9 +7,9 @@ social-share: true
 use-site-title: true
 ---
 
-![alt="Cartoon of a landscape showing galaxies floating over landmarks, with a road sign showing distances to them."](/cartoons/images/Clustering_Redshifts.jpg)
-
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate two papers describing how cross correlations with measurements from spectroscopic surveys were used to estimate the redshift distribution of DES galaxies.
+
+![alt="Cartoon of a landscape showing galaxies floating over landmarks, with a road sign showing distances to them."](/cartoons/images/Clustering_Redshifts.jpg)
 
 The paper doing this for the DES lens galaxy sample (which are used to measure galaxy positions) was led by Ross Cawthon ([website](https://sites.google.com/view/rosscawthon)), is titled  "Dark Energy Survey Year 3 Results: Calibration of Lens Sample Redshift Distributions using Clustering Redshifts with BOSS/eBOSS." ([arXiv:2012.12826](https://arxiv.org/abs/2012.12826))
 

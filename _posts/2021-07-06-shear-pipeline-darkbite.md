@@ -7,9 +7,11 @@ social-share: true
 use-site-title: true
 ---
 
-![alt="Cartoon of whimsical factory equipment, with different pieces of machinery representing shear analysis steps."](/cartoons/images/Shear_Pipeline.jpg)
 
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper led by [Alex Amon](https://amonalexandra.com/about-me/), which is one of two papers describing the DES Year 3 cosmic shear measurements. In particular, this paper focuses on the measurements that go into the analysis and the robustness of the cosmological results to observational uncertainties and systematics.   The paper's title is, "Dark Energy Survey Year 3 Results: Cosmology from Cosmic Shear and Robustness to Data Calibration" ([arXiv:2105.13543](https://arxiv.org/abs/2105.13543)).
+
+
+![alt="Cartoon of whimsical factory equipment, with different pieces of machinery representing shear analysis steps."](/cartoons/images/Shear_Pipeline.jpg)
 
 The post's associated text was:
 

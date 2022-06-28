@@ -7,9 +7,10 @@ social-share: true
 use-site-title: true
 ---
 
+This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper led by Martin Rodriguez-Monroy, which describes DES Year 3 galaxy clustering measurements and the technique used to correct them for observational systematics.  The paper's title is, "Dark Energy Survey Year 3 Results: Galaxy clustering and systematics treatment for lens galaxy samples" ([arXiv:2105.13540](https://arxiv.org/abs/2105.13540)).
+
 ![alt="Cartoon telescope looking at cosmological structures through glass plates. The glass plates have clouds, satellites, asteroids, and stars painted on them. Animation shows the panes of glass appearing one by one."](/cartoons/images/Galaxy_Clustering_And_Systematics_For_Gif_Low_Res.gif)
 
-This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper led by Martin Rodriguez-Monroy, which describes DES Year 3 galaxy clustering measurements and the technique used to correct them for observational systematics.  The paper's title is, "Dark Energy Survey Year 3 Results: Galaxy clustering and systematics treatment for lens galaxy samples" ([arXiv:2105.13540](https://arxiv.org/abs/2105.13540)).
 
 The post's associated text was:
 

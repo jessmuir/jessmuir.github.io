@@ -6,10 +6,11 @@ share-img: http://www.jessiemuir.com/cartoons/images/External_Tensions_labels_en
 social-share: true
 use-site-title: true
 ---
+This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper about the method used to check for tension between cosmological constraints made with different datasets. The paper was led by Pablo Lemos and Marco Raveri and is titled, "Assessing tension metrics with Dark Energy Survey and Planck data." ([arXiv:2012.09554](https://arxiv.org/abs/2012.09554))
+
 
 ![alt="Cartoon of someone using photos of parts of an animal to inform a model for what that animal is. Initially that model is a duck, but new data (a tail photo) shows that it is a platypus."](/cartoons/images/External_Tensions_labels_english.jpg)
 
-This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper about the method used to check for tension between cosmological constraints made with different datasets. The paper was led by Pablo Lemos and Marco Raveri and is titled, "Assessing tension metrics with Dark Energy Survey and Planck data." ([arXiv:2012.09554](https://arxiv.org/abs/2012.09554))
 
 The post's associated text was:
 

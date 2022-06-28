@@ -7,9 +7,10 @@ social-share: true
 use-site-title: true
 ---
 
+This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper, led by Juan Cordero and Ian Harrison, which describes a new approach to marginalizing over uncertainties in the line-of-sight distribution of galaxies measured by photometric survyes like DES. The paper is called, "Dark Energy Survey Year 3 Results: Marginalisation over redshift distribution uncertainties using ranking of discrete realisations." ([arXiv:2109.09636](https://arxiv.org/abs/2109.09636)).
+
 ![alt=""](/cartoons/images/Hyperrank.jpg)
 
-This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper, led by Juan Cordero and Ian Harrison, which describes a new approach to marginalizing over uncertainties in the line-of-sight distribution of galaxies measured by photometric survyes like DES. The paper is called, "Dark Energy Survey Year 3 Results: Marginalisation over redshift distribution uncertainties using ranking of discrete realisations." ([arXiv:2109.09636]((https://arxiv.org/abs/2109.09636)).
 
 The post's associated text was:
 

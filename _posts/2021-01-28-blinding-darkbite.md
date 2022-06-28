@@ -6,10 +6,9 @@ share-img: http://www.jessiemuir.com/cartoons/images/Blinding_Dark_bite_english.
 social-share: true
 use-site-title: true
 ---
+This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper I led, which introduces and validates the method used to protect the DES Y3 galaxy clustering and weak lensing analysis against experimenter bias.   The paper's title is, "Blinding multi-probe cosmological experiments" ([arXiv:1911.05929](https://arxiv.org/abs/1911.05929), [MNRAS](https://doi.org/10.1093/mnras/staa965)).
 
 ![alt="Drawing showing a wrapped gift, two researchers, and thought bubbles of cosmology results."](/cartoons/images/Blinding_Dark_bite_english.jpg)
-
-This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper I led, which introduces and validates the method used to protect the DES Y3 galaxy clustering and weak lensing analysis against experimenter bias.   The paper's title is, "Blinding multi-probe cosmological experiments" ([arXiv:1911.05929](https://arxiv.org/abs/1911.05929), [MNRAS](https://doi.org/10.1093/mnras/staa965)).
 
 The post's associated text was:
 

@@ -7,9 +7,10 @@ social-share: true
 use-site-title: true
 ---
 
+This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper about the method used to check for internal agreement between different parts of the DES data. It was led by Cyrille Doux ([website](https://xuod.github.io/)) and Eric Baxter ([website](https://ebaxter.github.io/)) and is titled, "Dark Energy Survey internal consistency tests of the joint cosmological probes analysis with posterior predictive distributions" ([arXiv:2011.03410](https://arxiv.org/pdf/2011.03410.pdf)). 
+
 ![alt="Cartoon of puzzle pieces showing a plot of DES data."](/cartoons/images/Internal_Tensions_Crop.jpg)
 
-This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper about the method used to check for internal agreement between different parts of the DES data. It was led by Cyrille Doux ([website](https://xuod.github.io/)) and Eric Baxter ([website](https://ebaxter.github.io/)) and is titled, "Dark Energy Survey internal consistency tests of the joint cosmological probes analysis with posterior predictive distributions" ([arXiv:2011.03410](https://arxiv.org/pdf/2011.03410.pdf)). 
 
 The post's associated text was:
 

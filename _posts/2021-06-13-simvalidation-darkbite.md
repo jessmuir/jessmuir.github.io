@@ -7,9 +7,9 @@ social-share: true
 use-site-title: true
 ---
 
-![alt="Cartoon of a person operating a flight simulator with a virtual reality headset. A greenish glowing cloud in front of their face shows what they see on the headset: the cockpit of a plane with galaxies outside the windows."](/cartoons/images/Sim_Validation.jpg)
-
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper led by Joe DeRose, which describes simulations and simulated analyses used to validate the DES Y3 galaxy clustering and weak lensing analysis.   The paper's title is, "Dark Energy Survey Year 3 results: cosmology from combined galaxy clustering and lensing -- validation on cosmological simulations" ([arXiv:2105.13547](https://arxiv.org/abs/2105.13547)).
+
+![alt="Cartoon of a person operating a flight simulator with a virtual reality headset. A greenish glowing cloud in front of their face shows what they see on the headset: the cockpit of a plane with galaxies outside the windows."](/cartoons/images/Sim_Validation.jpg)
 
 The post's associated text was:
 
