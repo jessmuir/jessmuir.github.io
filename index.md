@@ -29,7 +29,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 ### Contact
 
 * Email: jmuir ~at~ perimeterinstitute ~dot~ ca
-* INSPIRE: [Jessica.Muir.1](https://inspirehep.net/author/profile/Jessica.Muir.1)
+* ADS bibliography: [Muir-Jessica bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA)
 * ORCID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
 * github: [jessmuir](https://github.com/jessmuir)
 * twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
