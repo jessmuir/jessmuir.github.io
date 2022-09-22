@@ -7,7 +7,7 @@ social-share: true
 use-site-title: true
 ---
 
-I made this illustration at the request of the [Cosmic Frontier conveners](https://snowmass21.org/cosmic/start) for the [Snowmass 2021 DPF community planning exercise](https://snowmass21.org/start). The goal was to create an imate that could serve as an overview that highlights the fact that the various cosmological probes featured work together to provide information about the science goals: dark matter, dark energy, inflation, neutrinos, and exploring the unknown. 
+I made this illustration at the request of the [Cosmic Frontier conveners](https://snowmass21.org/cosmic/start) for the [Snowmass 2021 DPF community planning exercise](https://snowmass21.org/start). The goal was to create an image that could serve as an overview, highlighting   the fact that different cosmological probes work together to provide information about the Cosmic Frontier science goals: dark matter, dark energy, inflation, neutrinos, and exploring the unknown. 
 
 ![alt="Cartoon with Earth in the lower left of the image, with a fan-shaped illustration showing different cosmological epochs observed as we look out into the Universe, including local group dwarf galaxies, large scle structure, reionization, and the CMB. A legend associates the snowmass cosmic frontier science goals of dark matter, dark energy, inflation, neutrinos, and exploring the unknown with different colors. Icons identifying different kinds of observables highlight what kinds of astrophysical, lab, and cosmic probes will inform these science cases."](/cartoons/images/Snowmass_Overview_1_allcolors.jpg)
 
