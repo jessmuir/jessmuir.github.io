@@ -22,7 +22,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012.
 * B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
 
-## Contact
+### Contact
 
 * Email: jmuir ~at~ perimeterinstitute ~dot~ ca
 * ADS bibliography: [Muir-Jessica bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA)
@@ -38,7 +38,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * Aug. 2022 - A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-testing-gravity) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil.
 * March 2022 - I wrote a [KIPAC research highlight blog post](https://kipac.stanford.edu/highlights/confronting-models-des-year-3-data-or-how-did-we-get-here-and-whats-next) about the DES Year 3 galaxy clustering and weak lensing cosmology analysis. 
 
-## Online talks
+### Online talks
 
 For the general public
 * [**"Echoes of the Early Universe"**](https://www.youtube.com/watch?v=FDKzkWo0ucQ) **(Public lecture, 1hr)** -  I gave this talk for the general public in July 2020 as part of KIPAC's online "Discover" series. It's about the  Cosmic Microwave Background, and how we can use measurements of it to learn about the history of the Universe and about fundamental physics.
