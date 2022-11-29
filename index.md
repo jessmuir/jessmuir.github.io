@@ -34,7 +34,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 ## News and updates
 
 * Nov. 2022 -  I was  featured as a guest on an episode of the ["Conversations at the Perimeter" podcast](https://www.podbean.com/ew/pb-cuwuz-1301c33).   I recorded this interview  in the spring of 2022. In it, I talk about dark energy and how we can learn about it using galaxy surveys like the Dark Energy Survey, as well as making science cartoons, collaborative science, and more.
-* Aug. 2022 - A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-tes) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) analysis that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil. 
+* Aug. 2022 - A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-tes) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil. 
 
 ## Online talks
 
