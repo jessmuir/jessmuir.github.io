@@ -13,7 +13,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 
 
 ---
-## CV [PDF](Muir-CV-oct2022.pdf)
+## [CV (PDF link)](Muir-CV-oct2022.pdf)
 
 ### Education
 
@@ -22,10 +22,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * MASt in Applied Mathematics (Part III) - Gonville and Caius College, University of Cambridge, 2012.
 * B.S. Physics & B.S. Astrophysics - Michigan State University, 2010.
 
----
-## Links
-
-### Contact
+## Contact
 
 * Email: jmuir ~at~ perimeterinstitute ~dot~ ca
 * ADS bibliography: [Muir-Jessica bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA)
@@ -33,11 +30,15 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * github: [jessmuir](https://github.com/jessmuir)
 * twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
 
+---
+## News and updates
 
-### Online talks
+* Nov. 2022 -  I was  featured as a guest on an episode of the ["Conversations at the Perimeter" podcast](https://www.podbean.com/ew/pb-cuwuz-1301c33).   I recorded this interview  in the spring of 2022. In it, I talk about dark energy and how we can learn about it using galaxy surveys like the Dark Energy Survey, as well as making science cartoons, collaborative science, and more.
+* Aug. 2022 - A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-tes) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) analysis that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil. 
+
+## Online talks
 
 For the general public
-* [**"Conversations at the Perimeter" episode on dark energy and galaxy survey science**](https://www.podbean.com/ew/pb-cuwuz-1301c33) **(Podcast, 1hr)** - I recorded this interview  in the spring of 2022. In it, I talk about dark energy and how we can learn about it using galaxy surveys like the Dark Energy Survey, as well as making science cartoons, collaborative science, and more. 
 * [**"Echoes of the Early Universe"**](https://www.youtube.com/watch?v=FDKzkWo0ucQ) **(Public lecture, 1hr)** -  I gave this talk for the general public in July 2020 as part of KIPAC's online "Discover" series. It's about the  Cosmic Microwave Background, and how we can use measurements of it to learn about the history of the Universe and about fundamental physics.
 
 Technical
