@@ -13,7 +13,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 
 
 ---
-## [CV (PDF link)](Muir-CV-oct2022.pdf)
+## [CV (PDF link)](Muir-CV-july2023.pdf)
 
 ### Education
 
@@ -28,11 +28,12 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * ADS bibliography: [Muir-Jessica bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA)
 * ORCID: [0000-0002-7579-770X](http://orcid.org/0000-0002-7579-770X)
 * github: [jessmuir](https://github.com/jessmuir)
-* twitter: [jlynnmuir](https://twitter.com/jlynnmuir)
 
 ---
 ## News and updates
 
+* July 2023 - I was awarded the BMO Inclusive Excellence Post-Doctoral Fellowship, which recognizes a track record of fostering an inclusive environment as well as research excellence. This fellowship funds a one-year extension to my postdoc contract at Perimeter Institute.
+* June 2023 - I had a great time talking about dark matter and dark energy at the [Kitchener-Waterloo Astronomy on Tap](https://astronomyontap.org/locations/kitchener-waterloo-on-canada/) at The Crazy Canuck in downtown Kitchener. 
 * Nov. 2022 - The [Snowmass Cosmic Frontier report](https://arxiv.org/abs/2211.09978) has been released. While I was not heavily involed in the development of this report, I did create an overview illustration for it at the request of the conveners.  The illustration is on the title page of the report and can also be found on [my "cartoons" page](https://www.jessiemuir.com/2022-07-27-snowmass-cosmic-frontiers/). 
 * Nov. 2022 -  I was  featured as a guest on an episode of the ["Conversations at the Perimeter" podcast](https://www.podbean.com/ew/pb-cuwuz-1301c33).  In it, I talk about dark energy and how we can learn about it using galaxy surveys like the Dark Energy Survey, as well as making science cartoons, collaborative science, and more.
 * Aug. 2022 - A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-testing-gravity) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil.
