@@ -13,7 +13,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 
 
 ---
-## [CV (PDF link)](Muir-CV-july2023.pdf)
+## [CV (PDF link)](Muir-CV-oct2023.pdf)
 
 ### Education
 
