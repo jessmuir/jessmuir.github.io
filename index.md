@@ -32,6 +32,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 ---
 ## News and updates
 
+* August 2024 - I was interviewed by Rebecca Boyle for a [Scientific American article](https://www.scientificamerican.com/article/dark-energy-measurements-suggest-the-universe-might-be-way-weirder-than-we/) reporting on models of dark energy beyond the cosmological constant.
 * July 2023 - I was awarded the BMO Inclusive Excellence Post-Doctoral Fellowship, which recognizes a track record of fostering an inclusive environment as well as research excellence. This fellowship funds a one-year extension to my postdoc contract at Perimeter Institute.
 * June 2023 - I had a great time talking about dark matter and dark energy at the [Kitchener-Waterloo Astronomy on Tap](https://astronomyontap.org/locations/kitchener-waterloo-on-canada/) at The Crazy Canuck in downtown Kitchener.
 * Apr. 2023 - The Dark Energy Survey Year 3 beyond-LCDM key paper, which is the product of an analysis I co-led, was [published as an editor's suggestion in Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.083504). That publication was highlighted in a [Perimeter Institute press release](https://insidetheperimeter.ca/putting-dark-energy-to-the-test/). 
