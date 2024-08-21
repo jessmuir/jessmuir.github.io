@@ -7,13 +7,13 @@ share-img: http://www.jessiemuir.com/img/headshot_pi-podcast_2022.jpg
 ---
 ![](/img/headshot_pi-podcast_2022.jpg "Portrait of Jessie taken at Perimeter Institute in spring 2022.")
 
-I'm a Postdoctoral fellow at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/). I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone. I do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration, where I co-led the analysis team performing a combined analysis of the survey's first three years of galaxy clustering and weak lensing data to constrain extensions to the standard cosmological model.
+I'm  a Postdoctoral Fellow at the [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/). I'm interested in using cosmological observations to better understand and constrain fundamental physics, and in studying how we can get as much information as possible out of those observations. I'm also interested in science outreach and in making STEM fields more accessible and welcoming to everyone. I do research as part of the [Dark Energy Survey](https://www.darkenergysurvey.org/) collaboration, where I co-led the analysis team performing a combined analysis of the survey's first three years of galaxy clustering and weak lensing data to constrain extensions to the standard cosmological model. In January 2025 I'll be starting a faculty position at the [University of Cincinnati Department of Physics](https://www.artsci.uc.edu/departments/physics.html). 
 
 I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/). Before I came to Perimeter Institute, I was a Porat Fellow at [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford. where I was part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html).
 
 
 ---
-## [CV (PDF link)](Muir-CV-oct2023.pdf)
+## [CV (PDF link)](Muir-CV-may2024.pdf)
 
 ### Education
 
@@ -33,6 +33,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 ## News and updates
 
 * August 2024 - I was interviewed by Rebecca Boyle for a [Scientific American article](https://www.scientificamerican.com/article/dark-energy-measurements-suggest-the-universe-might-be-way-weirder-than-we/) reporting on models of dark energy beyond the cosmological constant.
+* May 2024 - My artwork was featured in an [article on recent cosmology results](https://lsa.umich.edu/lsa/news-events/lsa-magazine/spring-2024/more-stories/shedding-light-on-dark-matter-and-dark-energy.html) in the University of Michigan LSA alumni magazine. 
 * July 2023 - I was awarded the BMO Inclusive Excellence Post-Doctoral Fellowship, which recognizes a track record of fostering an inclusive environment as well as research excellence. This fellowship funds a one-year extension to my postdoc contract at Perimeter Institute.
 * June 2023 - I had a great time talking about dark matter and dark energy at the [Kitchener-Waterloo Astronomy on Tap](https://astronomyontap.org/locations/kitchener-waterloo-on-canada/) at The Crazy Canuck in downtown Kitchener.
 * Apr. 2023 - The Dark Energy Survey Year 3 beyond-LCDM key paper, which is the product of an analysis I co-led, was [published as an editor's suggestion in Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.083504). That publication was highlighted in a [Perimeter Institute press release](https://insidetheperimeter.ca/putting-dark-energy-to-the-test/). 
