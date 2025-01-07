@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jessie Muir
-subtitle: Postdoctoral Fellow at Perimeter Institute. Cosmology theory and data analysis to learn about fundamental physics.
+subtitle: Cosmology theory and data analysis to learn about fundamental physics.
 use-site-title: true
 share-img: http://www.jessiemuir.com/img/headshot_pi-podcast_2022.jpg
 ---
