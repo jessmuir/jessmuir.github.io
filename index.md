@@ -32,6 +32,8 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 ---
 ## News and updates
 
+* February 2026 - I spoke to Brooks Mendenhall for an [article on Astronomy.com](https://www.astronomy.com/science/dark-energy-survey-releases-year-6-results/) about DES Year 6 cosmology results. 
+* January 2026 - DES Year 6 combined results from galaxy clustering and weak lensing were released. [Papers can be found on this page](https://www.darkenergysurvey.org/des-y6-cosmology-results-papers/), and a [recording of the results announcement webinar can be found here](https://www.darkenergysurvey.org/des-y6-3x2pt-results-webinar-january-22-2026/). Here is the associated the [Fermilab press release](https://news.fnal.gov/2026/01/dark-energy-survey-scientists-release-new-analysis-of-how-the-universe-expands/), and the [University of Cincinnati press release](https://www.uc.edu/news/articles/2026/01/uc-physicist-contributes-to-global-effort-to-unlock-mysteries-of-dark-energy.html). 
 * October 2025 - I was interviewed by Rebecca Boyle for a [Scientific American article](https://www.scientificamerican.com/article/is-dark-energy-born-inside-black-holes/) on testing models of dark energy.
 * September 2025 - I was interviewed about dark energy and testing the standard cosmological model for a [BBC Science Focus article](https://www.sciencefocus.com/space/understanding-nothingness-might-explain-everything) by Georgina Torbet. 
 * April 2025 - I was interviewed about recent dark energy results for an [article on Astronomy.com](https://www.astronomy.com/science/dark-energy-may-be-changing-over-time/) by Mackenzie White.
