@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Weak lensing
-image: /cartoons/images/Weak_Lensing_all.jpg
+image: /cartoons/images/Weak_Lensing_Animation_all-appear-small.gif
 share-img: http://www.jessiemuir.com/cartoons/images/Weak_Lensing_all.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 Animation:
 

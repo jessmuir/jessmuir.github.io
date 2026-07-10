@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Weak lensing with Rubin Observatory cartoon
 image: /cartoons/images/rubin_lensing_all.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Weak_Lensing_all.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This is a new version of a [similar weak lensing illustration I'd done before,](https://www.jessiemuir.com/2020-06-14-weaklensing/) featuring the Rubin Observatory instead of the Blanco Telescope.

@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Darkbite on the DES Shear Pipeline
 image: /cartoons/images/Shear_Pipeline.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Shear_Pipeline.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 

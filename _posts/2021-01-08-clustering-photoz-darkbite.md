@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Clustering redshifts Darkbite
 image: /cartoons/images/Clustering_Redshifts.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Clustering_Redshifts.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate two papers describing how cross correlations with measurements from spectroscopic surveys were used to estimate the redshift distribution of DES galaxies.

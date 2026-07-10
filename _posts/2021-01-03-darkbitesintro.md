@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: DES Y3 Darkbites intro
 image: /cartoons/images/Intro_Portraits.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Intro_Portraits.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 I'm contributing to [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click), a series of social media posts that will highlight the papers describing the Dark Energy Survey's Year 3 galaxy clustering and weak lensing analysis. I'm  working with Ross Cawthon (Wisconson) and Chihway Chang (Chicago) to coordinate this project, and a number of other DES members are contributing artwork and writing. I edited the text of a large fraction of the ~30 posts and contributed artwork for about a quarter of them. I'm planning on uploading that artwork here as the posts become public.  

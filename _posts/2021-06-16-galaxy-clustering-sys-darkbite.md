@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Darkbite on galaxy clustering and systematics
 image: /cartoons/images/Galaxy_Clustering_And_Systematics_For_Gif_Low_Res.gif
 share-img: http://www.jessiemuir.com/cartoons/images/Galaxy_Clustering_And_Systematics_For_Gif_Low_Res.gif
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper led by Martin Rodriguez-Monroy, which describes DES Year 3 galaxy clustering measurements and the technique used to correct them for observational systematics.  The paper's title is, "Dark Energy Survey Year 3 Results: Galaxy clustering and systematics treatment for lens galaxy samples" ([arXiv:2105.13540](https://arxiv.org/abs/2105.13540)).

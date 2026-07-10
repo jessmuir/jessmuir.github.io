@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Large Scale Structure growth overview for LSA magazine
-image: /cartoons/images/lsa_umich_mag_LSS_mobile_crop.png
+image: /cartoons/images/lsa_umich_mag_LSS_growth_Fullpage_Extended.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Snowmass_Science_Animate.gif
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This is a set of illustrations that were commissioned by the University of Michigan College of Literature Science and the Arts alumni magazine, to illustrate an article about recent research by [Minh Nguyen](https://minhmpa.github.io/), [Dragan Huterer](https://websites.umich.edu/~huterer/) (my PhD advisor), and Yuewei Wen. The preprint of Minh, Dragan, and Yuewei's research paper is [on arXiv here (2302.0133)](https://arxiv.org/abs/2302.01331), and was published in Physical Review Letters [(link)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.111001).

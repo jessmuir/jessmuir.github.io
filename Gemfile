@@ -1,12 +1,9 @@
-source 'https://rubygems.org'
+# Gemfile for GitHub Pages + Jekyll (local development)
 
-#gem "github-pages", '197', group: :jekyll_plugins
+source "https://rubygems.org"
 
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
-gem 'jekyll-sitemap'
-gem 'kramdown-parser-gfm'
-gem "jekyll", "~> 3.9"
+# GitHub Pages bundle: pins Jekyll and all plugins to versions used by GitHub Pages
+gem "github-pages", group: :jekyll_plugins
 
-
+# Needed for Ruby 3.x to serve locally
+gem "webrick", "~> 1.8"

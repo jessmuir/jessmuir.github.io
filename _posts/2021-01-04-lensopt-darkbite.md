@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Lens Sample Optimization Darkbite
 image: /cartoons/images/Lens_Sample_Optimization.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Lens_Sample_Optimization.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate the paper led by Anna Porredon ([website](https://astronomy.osu.edu/people/porredon.1), [twitter](https://twitter.com/annamporredon)), titled  "Dark Energy Survey Year 3 Results: Optimizing the Lens Sample in Combined Galaxy Clustering and Galaxy-Galaxy Lensing Analysis." ([arXiv:2011.03411](https://arxiv.org/abs/2011.03411))  

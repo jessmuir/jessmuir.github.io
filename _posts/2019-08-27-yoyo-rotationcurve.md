@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Yo-yo rotation curves
-image: /cartoons/images/rotationcurve4_star.png
+image: /cartoons/images/rotationcurve1_yoyo.png
 share-img: http://www.jessiemuir.com/cartoons/images/rotationcurve4_star.png
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 I used these cartoons in conjunction with a live demonstration using a real yo-yo to talk about centripetal force and to explain how galaxy rotation curves can tell us about dark matter. 

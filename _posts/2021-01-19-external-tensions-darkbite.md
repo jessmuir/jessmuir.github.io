@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Cosmological Tensions Darkbite
 image: /cartoons/images/External_Tensions_labels_english.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/External_Tensions_labels_english.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate a paper about the method used to check for tension between cosmological constraints made with different datasets. The paper was led by Pablo Lemos and Marco Raveri and is titled, "Assessing tension metrics with Dark Energy Survey and Planck data." ([arXiv:2012.09554](https://arxiv.org/abs/2012.09554))
 

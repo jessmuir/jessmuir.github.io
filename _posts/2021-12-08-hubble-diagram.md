@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Hubble diagram
 image: /cartoons/images/new_hubble_diagram.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/new_hubble_diagram.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This hand-drawn plot was done to try and help develope more intuitive understanding of how type Ia supernovae can be used as standard candles to probe the expansion history of the Universe.

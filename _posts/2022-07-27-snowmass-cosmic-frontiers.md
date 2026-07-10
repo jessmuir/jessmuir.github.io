@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Snowmass Cosmic Frontiers Overview
-image: /cartoons/images/Snowmass_Science_Animate.gif
+image: /cartoons/images/Snowmass_Overview_1_allcolors.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Snowmass_Overview_1_allcolors.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 I made this illustration at the request of the [Cosmic Frontier conveners](https://snowmass21.org/cosmic/start) for the [Snowmass 2021 DPF community planning exercise](https://snowmass21.org/start). The illustration was featured on the title page of the final [Cosmic Frontier Snowmass Report](https://arxiv.org/abs/2211.09978).

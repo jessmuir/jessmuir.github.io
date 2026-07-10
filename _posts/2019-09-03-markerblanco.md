@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Marker drawing of the Blanco Telescope
 image: /cartoons/images/Muir_Blanco_drawing_2018_cropped_edited_small.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Muir_Blanco_drawing_2018_cropped_edited_small.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 I drew this picture of the Blanco Telescope while at CTIO on shift for the Dark Energy Survey in November, 2018. I submitted it as part of the [#DESendofnights](https://www.darkenergysurvey.org/desendofnights/) social media posts commemorating the end of six years of observing for the survey. The drawing was a finalist in the [2019 Art of Science competition](https://mrs.stanford.edu/2019-art-of-science-winners/) organized by the Stanford Materials Research Society.

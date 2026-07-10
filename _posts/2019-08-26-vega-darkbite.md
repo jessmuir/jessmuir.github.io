@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Steps to Vega Darkbite
 image: /cartoons/images/StepstoVega_JM2_20160831.JPG
 share-img: http://www.jessiemuir.com/cartoons/images/StepstoVega_JM2_20160831.JPG
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 I've drawn a couple of cartoons for Darkbites, a social media based outreach effort through the Dark Energy Survey. They appeared on DES social media accounts accompanied by text describing a fun science fact. [Darkbites website](https://www.darkenergysurvey.org/education/darkbites/)

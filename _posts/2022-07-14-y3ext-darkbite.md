@@ -1,10 +1,12 @@
 ---
+
 layout: post
 title: Darkbite on DES Y3 beyond-LCDM analysis
 image: /cartoons/images/Extensions.jpg
 share-img: http://www.jessiemuir.com/cartoons/images/Extensions.jpg
 social-share: true
 use-site-title: true
+category: cartoons
 ---
 
 This cartoon is part of the DES Y3 [#Darkbites](https://twitter.com/hashtag/darkbites?src=hashtag_click) social media series. It was drawn to illustrate one of the Dark Energy Survey's Year 3 key cosmology results paper titled "Dark Energy Survey Year 3 Results: Constraints on extensions to ΛCDM with weak lensing and galaxy clustering." The paper describes an analysis that I co-led with [Agnès Ferté](https://www.agnesferte.com/), which uses DES Y3 galaxy clustering and weak lensing measurements to constrain several extensions to the standard cosmological model. ([arXiv:2207.05766](https://arxiv.org/abs/2207.05766)).
