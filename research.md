@@ -2,6 +2,7 @@
 layout: page
 title: Research
 use-site-title: true
+hide-title: true
 ---
 <div class="page-notice" markdown="1">
 **Under construction:** This page is somewhat out of date and doesn't yet reflect my most recent work. For an up-to-date list of my publications, please see my [ADS bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
@@ -9,7 +10,7 @@ use-site-title: true
 
 ## Current & recent projects
 
-* **Validating and improving modeling tools for beyond-LCDM cosmology** - Many of the calculations and software used to model galaxy survey observables have been developed and validated under the assumptions of the standard cosmological model, LCDM. Motivated by my work on beyond-LCDM science for the Dark Energy Survey (described below) I'm working on several projects assessing whether and how these tools can be applied to extended cosmological model analyses, as well as seeking ways of improving them. My ongoing projects include studies concerned with spatial curvature and with light relic sterile neutrinos, but I'm broadly interested in efforts to tetst beyond-LCDM cosmology and, in particular, in conducting tests for non-standard large-scale structure growth.  
+* **Validating and improving modeling tools for beyond-LCDM cosmology** - Many of the calculations and software used to model galaxy survey observables have been developed and validated under the assumptions of the standard cosmological model, LCDM. Motivated by my work on beyond-LCDM science for the Dark Energy Survey (described below) I'm working on several projects assessing whether and how these tools can be applied to extended cosmological model analyses, as well as seeking ways of improving them. My ongoing projects include studies concerned with spatial curvature and with light relic sterile neutrinos, but I'm broadly interested in efforts to test beyond-LCDM cosmology and, in particular, in conducting tests for non-standard large-scale structure growth.  
 
 * **Probes of large scale structure beyond two-point correlations** - Most analyses of the distribution of matter and galaxies in the Universe capture statistical information about structure using two-point summary statistics like power spectra and angular correlation functions. I'm interested in examining how we can extract more physical information from large scale structure by making use of higher order statistics, and in addressing challenges necessary to take newly proposed summary statistics from promising proofs-of-concept to robust experimental constraints. As an introduction to this topic, I'm working on a project studying the nearest neighbor distributions statistic [proposed by Arka Banerjee and Tom Abel](https://arxiv.org/abs/2007.13342) as a probe of modified gravity. 
 

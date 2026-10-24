@@ -14,14 +14,11 @@
             {%- else -%}
               <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
             {%- endif -%}
-                <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  {%- if element.icon contains 'ai-' %}
-                  <i class="ai {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                  {%- else %}
-                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                  {%- endif %}
-                </span>
+                {%- if element.icon contains 'ai-' %}
+                <i class="ai {{ element.icon }} footer-icon" aria-hidden="true"></i>
+                {%- else %}
+                <i class="fa {{ element.icon }} footer-icon" aria-hidden="true"></i>
+                {%- endif %}
                 <span class="sr-only">{{ element.name }}</span>
               </a>
             </li>
@@ -44,11 +41,6 @@
         {% endif %}
       {% endif%}
       </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
-    <p class="theme-by text-muted">
-      Theme by
-      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-    </p>
       </div>
     </div>
   </div>

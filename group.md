@@ -2,9 +2,12 @@
 layout: page
 title: Research Group
 use-site-title: true
+hide-title: true
 ---
 
-PLACEHOLDER: a short paragraph about the group, the kinds of questions it works on, and how prospective students can get in touch.
+Our group works at the intersection of cosmological theory and data analysis, using observations of the large-scale structure of the Universe to learn about dark energy, gravity, and other fundamental physics. We are based in the [University of Cincinnati Physics Department](https://www.artsci.uc.edu/departments/physics.html) and are involved in the [Dark Energy Survey](https://www.darkenergysurvey.org/) and the [Rubin Observatory LSST Dark Energy Science Collaboration](https://lsstdesc.org/).
+
+We interact closely with other astrophysicists in the UC Physics Department, including the groups of [Colin Bischoff](https://homepages.uc.edu/~bischocn/), [Matt Bayliss](https://www.matthewbbayliss.com/), and [Helen Meskhidze](https://helenmeskhidze.com/), and particularly [Jahmour Givans](https://jgivans.github.io/)'s group. Our two groups hold a weekly joint group meeting, which includes PhD student Sakshi Gupta and postdoc Manon Ramel from the Givans group.
 
 {% assign current = site.data.group | where_exp: "m", "m.alum != true" %}
 {% assign alumni = site.data.group | where: "alum", true %}
@@ -28,7 +31,7 @@ PLACEHOLDER: a short paragraph about the group, the kinds of questions it works 
 </div>
 
 {% if alumni.size > 0 %}
-## Alumni
+## Past mentees
 
 <ul>
   {% for m in alumni %}

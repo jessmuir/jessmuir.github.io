@@ -2,7 +2,6 @@
 #   date: YYYY-MM-DD (only month and year are shown)
 #   kind: Interview, Press release, or Artwork (shown as a small label)
 #   text: a sentence or two in Markdown, links included
-
 - date: 2026-02-01
   kind: Interview
   text: >

@@ -4,13 +4,39 @@
 #   photo: path to a square image, e.g. /img/group/jane.jpg (leave out to show initials)
 #   blurb: one or two sentences about their research
 #   link:  personal website or profile
-# Set "alum: true" to list someone under Alumni instead.
+# Set "alum: true" to list someone under Past mentees instead (newest first).
 
 - name: "PLACEHOLDER Student Name"
   role: "PhD student"
   blurb: "PLACEHOLDER: one or two sentences about their research."
   link:
 
-- name: "PLACEHOLDER Former Member"
-  role: "Undergraduate researcher (2025)"
+# Past mentees, from the Research Mentoring section of the Jan 2025 CV
+
+- name: "Gautier Duchesne"
+  role: "PSI START summer undergraduate research project, Perimeter Institute (2024)"
+  alum: true
+
+- name: "Paul Rogozenski"
+  role: "PhD student, University of Arizona; advised on a DES Y3 follow-up project (from 2022)"
+  alum: true
+
+- name: "Jordan Krywonos"
+  role: "PhD student, Perimeter Institute; co-supervised with Matthew Johnson (2022–2024)"
+  alum: true
+
+- name: "Oleksandra Hrytseniak"
+  role: "Master's research, co-advised with Niayesh Afshordi (2022)"
+  alum: true
+
+- name: "Yi Wang"
+  role: "PSI START summer undergraduate research project and Dalhousie University bachelor's thesis (2022–2023)"
+  alum: true
+
+- name: "Javiera Hernández Morales"
+  role: "Perimeter Scholars International Winter School project, co-supervised with Matthew Johnson (2022)"
+  alum: true
+
+- name: "Parth Garg"
+  role: "Stanford Physics Undergraduate Summer Research Program (2020)"
   alum: true
