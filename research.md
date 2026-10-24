@@ -3,7 +3,9 @@ layout: page
 title: Research
 use-site-title: true
 ---
-A list of my publications can be found on [this ADS bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
+<div class="page-notice" markdown="1">
+**Under construction:** This page is somewhat out of date and doesn't yet reflect my most recent work. For an up-to-date list of my publications, please see my [ADS bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
+</div>
 
 ## Current & recent projects
 

@@ -392,6 +392,29 @@ footer .theme-by {
   }
 }
 
+/* --- Academicons in footer --- */
+
+/* Academicons sets line-height: 1, which overrides Font Awesome's stacking and
+   pushes the icon above the circle's center */
+.fa-stack .ai.fa-stack-1x {
+  line-height: inherit;
+}
+
+/* --- Page notice (e.g. "under construction") --- */
+
+.page-notice {
+  margin: 0 0 30px;
+  padding: 12px 16px;
+  border-left: 4px solid #e0a800;
+  border-radius: 4px;
+  background: #fff8e1;
+  font-size: 16px;
+}
+
+.page-notice p {
+  margin: 0;
+}
+
 /* --- Home page intro --- */
 
 /* flow-root keeps the floated headshot inside the intro block */

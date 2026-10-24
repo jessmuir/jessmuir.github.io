@@ -7,15 +7,8 @@ var main = {
 
   init : function() {
     // Shorten the navbar after scrolling a little bit down
-    $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $(".navbar").addClass("top-nav-short");
-            $(".navbar-custom .avatar-container").fadeOut(500);
-        } else {
-            $(".navbar").removeClass("top-nav-short");
-            $(".navbar-custom .avatar-container").fadeIn(500);
-        }
-    });
+    // The navbar always stays in its short form (top-nav-short is set in nav.html),
+    // so there is no shrink-on-scroll handler here.
 
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
