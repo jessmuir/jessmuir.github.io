@@ -9,12 +9,17 @@
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
-  icon: "fa-orcid"
+  icon: "ai-orcid"
 
 inspire:
   name: "Inspire"
   baseURL: "https://inspirehep.net/author/profile/"
-  icon: "fa-info"
+  icon: "ai-inspire"
+
+ads:
+  name: "NASA ADS"
+  baseURL: "https://ui.adsabs.harvard.edu/public-libraries/"
+  icon: "ai-ads"
 
 facebook:
   name: "Facebook"

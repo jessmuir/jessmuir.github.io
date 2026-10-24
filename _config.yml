@@ -21,9 +21,9 @@ description: Personal site.
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  # Publications: "pubs"
-  #Travel: "travel"
-  Cartoons: "cartoons"	
+  My Research Group: "group"
+  Press: "press"
+  Cartoons: "cartoons"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -67,10 +67,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "jmuir@perimeterinstitute.ca"
+  email: "muirjc@ucmail.uc.edu"
   github: jessmuir
-  twitter: jlynnmuir
+#  twitter: jlynnmuir
   inspire: Jessica.Muir.1
+  ads: 6-hOYpXQQ_2TVE--3e5bhA
   orcid: 0000-0002-7579-770X
 #  reddit: yourname
   linkedin: jlynnmuir
@@ -87,7 +88,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#  twitter: true
   facebook: true
   linkedin: true
 
@@ -160,8 +161,6 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
-paginate_path: "/cartoons/page:num/"
 
 kramdown:
   input: GFM

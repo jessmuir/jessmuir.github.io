@@ -1,0 +1,16 @@
+# Research group members, shown on group.md.
+# Add one entry per person. Only "name" is required.
+#   role:  e.g. "PhD student", "Postdoc", "Undergraduate researcher"
+#   photo: path to a square image, e.g. /img/group/jane.jpg (leave out to show initials)
+#   blurb: one or two sentences about their research
+#   link:  personal website or profile
+# Set "alum: true" to list someone under Alumni instead.
+
+- name: "PLACEHOLDER Student Name"
+  role: "PhD student"
+  blurb: "PLACEHOLDER: one or two sentences about their research."
+  link:
+
+- name: "PLACEHOLDER Former Member"
+  role: "Undergraduate researcher (2025)"
+  alum: true

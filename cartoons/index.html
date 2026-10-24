@@ -6,74 +6,24 @@ use-site-title: true
 social-share: true
 ---
 
-<p>See below for cartoons or other science-related artwork that I've made for talks or other outreach projects. Note that the  thumbnails are distorted or don't all show the full image. </p>
+<p>See below for cartoons or other science-related artwork that I've made for talks or other outreach projects. Click any image to see the full version and the story behind it.</p>
 
- <p><small> <em>You're welcome to use any of these images for non-commercial purposes, but please credit me if you do.   I can provide higher resolution versions of several of the images and individual frames of gifs upon request. For many of the  digital illustrations, I'm also happy to provide versions with the image text in other languages, if given a translation and enough notice. </em></p>
+ <p><small> <em>You're welcome to use any of these images for non-commercial purposes, but please credit me if you do.   I can provide higher resolution versions of several of the images and individual frames of gifs upon request. For many of the  digital illustrations, I'm also happy to provide versions with the image text in other languages, if given a translation and enough notice. </em></small></p>
 
 <hr>
 
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: site.date_format }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image | relative_url }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+<div class="cartoon-gallery">
+  {% for post in site.posts %}
+  {% if post.image %}
+  <a class="cartoon-tile" href="{{ post.url | relative_url }}">
+    <div class="cartoon-thumb">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
     </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
+    <div class="cartoon-caption">
+      <span class="cartoon-title">{{ post.title }}</span>
+      <span class="cartoon-date">{{ post.date | date: "%B %Y" }}</span>
     </div>
-    {% endif %}
-
-   </article>
+  </a>
+  {% endif %}
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
