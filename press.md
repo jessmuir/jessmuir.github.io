@@ -1,13 +1,32 @@
 ---
 layout: page
 title: Press
+subtitle: Interviews, press releases, and media coverage
 use-site-title: true
 hide-title: true
+own-heading: true
 ---
 
-I'm happy to talk with reporters and science writers about science, and especially about cosmology, including topics like dark energy, the large-scale structure of the Universe, and what galaxy surveys like the Dark Energy Survey and Rubin Observatory's LSST can tell us about fundamental physics. For media inquiries, please contact me by [email](mailto:muirjc@ucmail.uc.edu).
+<div class="page-top" markdown="1">
+<div markdown="1">
+
+{% include page-heading.html %}
+
+I'm happy to talk with reporters and science writers about science, and especially about cosmology, including topics like dark energy, the large-scale structure of the Universe, and what galaxy surveys like the Dark Energy Survey and Rubin Observatory's LSST can tell us about fundamental physics.
 
 Below are news coverage, interviews, and other media featuring my research.
+
+</div>
+<div class="side-box" markdown="1">
+
+#### Media inquiries
+
+Reporters and science writers are welcome to get in touch by email:
+
+[muirjc@ucmail.uc.edu](mailto:muirjc@ucmail.uc.edu)
+
+</div>
+</div>
 
 <!-- Newest first. End each item with *(Month Year · Type)*; the page shows it small and grey. -->
 

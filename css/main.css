@@ -553,29 +553,54 @@ footer .theme-by {
   }
 }
 
-/* --- Side callout (e.g. talks box beside the home page News list) --- */
+/* --- Page top: intro text beside a side box (Group, Press, Cartoons) --- */
 
-.side-callout {
-  float: right;
-  width: 230px;
-  margin: 0 0 16px 24px;
-  padding: 14px 16px;
+.page-heading-left {
+  margin-bottom: 4px;
+}
+
+.page-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 32px;
+  align-items: start;
+  margin-bottom: 10px;
+}
+
+.page-top > div > p:first-child {
+  margin-top: 0;
+}
+
+/* same look as the home page sidebar */
+.side-box {
+  padding: 16px 18px;
   border: 1px solid #dfe6ee;
   border-radius: 10px;
-  background: #f4f7fa;
-  font-size: 15px;
+  background: #f7f9fb;
+  font-size: 14px;
   line-height: 1.5;
 }
 
-.side-callout p {
-  margin: 0;
+.side-box h4 {
+  margin: 0 0 8px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #5a6b80;
 }
 
-@media only screen and (max-width: 600px) {
-  .side-callout {
-    float: none;
-    width: auto;
-    margin: 0 0 20px;
+.side-box p {
+  margin: 0 0 8px;
+}
+
+.side-box p:last-child {
+  margin-bottom: 0;
+}
+
+@media only screen and (max-width: 767px) {
+  .page-top {
+    grid-template-columns: 1fr;
+    gap: 20px;
   }
 }
 
@@ -663,6 +688,14 @@ footer .theme-by {
 
 .home-top .home-intro p:first-of-type {
   margin-top: 0;
+}
+
+/* News, under the bio */
+.home-top .home-intro h2 {
+  margin: 36px 0 0;
+  padding-top: 22px;
+  border-top: 1px solid #eee;
+  font-size: 26px;
 }
 
 @media only screen and (max-width: 767px) {

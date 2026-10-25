@@ -1,12 +1,32 @@
 ---
 layout: page
 title: Research
+subtitle: Testing cosmology and fundamental physics with galaxy surveys
 use-site-title: true
 hide-title: true
+own-heading: true
 wide: true
 ---
+
+<div class="page-top" markdown="1">
+<div markdown="1">
+
+{% include page-heading.html %}
+
 <div class="page-notice" markdown="1">
 **Under construction:** This page is somewhat out of date and doesn't yet reflect my most recent work. For an up-to-date list of my publications, please see my [ADS bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
+</div>
+
+</div>
+<div class="side-box" markdown="1">
+
+#### Recorded talks
+
+Public lectures, a podcast, and research talks on cosmology and dark energy.
+
+[Watch recordings &darr;](#recorded-talks)
+
+</div>
 </div>
 
 ## Current & recent projects

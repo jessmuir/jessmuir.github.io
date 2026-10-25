@@ -272,6 +272,16 @@ The left side is the label; the right side is the page's address. The
 current page's tab is highlighted automatically. *(Restart the preview after
 editing `_config.yml`.)*
 
+### Page headings and side boxes (Group, Press, Cartoons)
+These pages start with a left-aligned name and tagline, then the intro text
+with a small box beside it ("Join the group", "Media inquiries", "Using these
+images").
+
+- **Name and tagline:** `title:` and `subtitle:` in the page's front matter.
+  The line `{% raw %}{% include page-heading.html %}{% endraw %}` displays them.
+- **Side box text:** inside `<div class="side-box" markdown="1">` near the
+  top of the page. Its small heading is the `#### ...` line.
+
 ### Add a new page
 Create e.g. `teaching.md` in the top folder:
 
@@ -279,15 +289,24 @@ Create e.g. `teaching.md` in the top folder:
 ---
 layout: page
 title: Teaching
+subtitle: Courses at the University of Cincinnati
 hide-title: true
+own-heading: true
 ---
+
+{% raw %}{% include page-heading.html %}{% endraw %}
 
 Page content in Markdown.
 ```
 
-- `title` is used in the browser tab ("Teaching | Jessie Muir").
-- `hide-title: true` hides the big heading, since the highlighted menu tab
-  shows the page name. Leave it out for a page that isn't in the menu.
+- `title` is used for the heading and the browser tab ("Teaching | Jessie Muir").
+- `subtitle` is the tagline under the heading (optional).
+- `hide-title` and `own-heading` replace the theme's large centered header
+  with the left-aligned heading. For a plain page with no heading at all,
+  keep only `hide-title: true` and leave out the `include` line.
+
+To add a side box next to the intro, copy the `<div class="page-top" ...>`
+block from the top of `press.md` and edit it.
 - Add `wide: true` for a wider text column (used on the Research page).
 - Add it to `navbar-links` in `_config.yml` to put it in the menu.
 

@@ -45,12 +45,7 @@ I'm an Assistant Professor in the [University of Cincinnati Physics department](
 
 I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate degree from Michigan State University, where I did an astrophysics undergrad thesis supervised by [Mark Voit](https://web.pa.msu.edu/people/voit/Mark.html). I spent two years at the University of Cambridge as a [Marshall Scholar](http://www.marshallscholarship.org/) where I completed [Part III of the Mathematical Tripos](https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html) and then spent a year working on modified gravity research with [Anne-Christine Davis](cam.ac.uk/people/a.c.davis/).  I got my PhD at University of Michigan's [Department of Physics](https://lsa.umich.edu/physics), where my advisor was [Dragan Huterer](http://www-personal.umich.edu/~huterer/). I did two postdocs, one as a Porat Fellow at [Kavli Institute for Particle Astrophysics and Cosmology (KIPAC)](https://kipac.stanford.edu/) at Stanford, where I was part of [Risa Wechsler](https://www.risawechsler.com/)'s [galaxy formation and cosmology group](https://www.risawechsler.com/gfc-group.html), and one as  Postdoctoral Fellow at [Perimeter Institute for Theoretical Physics](https://perimeterinstitute.ca/) .
 
-</div>
 
-</div>
-
-
----
 ## News and updates
 
 *For interviews, press releases, and media coverage, see the [Press page](/press).*
@@ -61,3 +56,7 @@ I grew up in Romeo, a suburb of Detroit, Michigan.  I received my undergraduate 
 * June 2023 - I had a great time talking about dark matter and dark energy at the [Kitchener-Waterloo Astronomy on Tap](https://astronomyontap.org/locations/kitchener-waterloo-on-canada/) at The Crazy Canuck in downtown Kitchener.
 * Apr. 2023 - The Dark Energy Survey Year 3 beyond-LCDM key paper, which is the product of an analysis I co-led, was [published as an editor's suggestion in Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.083504).
 * Nov. 2022 - The [Snowmass Cosmic Frontier report](https://arxiv.org/abs/2211.09978) has been released. While I was not heavily involved in the development of this report, I did create an overview illustration for it at the request of the conveners.  The illustration is on the title page of the report and can also be found on [my "cartoons" page](https://www.jessiemuir.com/2022-07-27-snowmass-cosmic-frontiers/). 
+
+</div>
+
+</div>
