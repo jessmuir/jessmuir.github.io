@@ -25,6 +25,8 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 600;
   color: #333;
+  /* so #section links land below the fixed navbar */
+  scroll-margin-top: 70px;
 }
 
 a {
@@ -459,6 +461,233 @@ footer .theme-by {
   margin: 0;
 }
 
+/* --- Research page cards --- */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin: 20px 0 40px;
+}
+
+.research-card {
+  border: 1px solid #dfe6ee;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.research-card > h3 {
+  margin: 0;
+  padding: 12px 18px;
+  font-size: 17px;
+  line-height: 1.35;
+  background: #eef3f8;
+  border-bottom: 1px solid #dfe6ee;
+}
+
+.research-card p {
+  margin: 12px 18px;
+  font-size: 15px;
+}
+
+.research-card .card-links {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+/* optional figure under a card's title; shown whole, never cropped */
+.research-card .card-figure {
+  margin: 0;
+  padding: 14px 18px 0;
+  text-align: center;
+}
+
+.research-card .card-figure img {
+  max-width: 100%;
+  max-height: 240px;
+  border-radius: 6px;
+}
+
+.research-card .card-figure + p:not(.card-links) {
+  margin-top: 12px;
+}
+
+/* talks: full width, warm header, two lists side by side */
+.research-card.talks-card {
+  grid-column: 1 / -1;
+  border-color: #ecdcc0;
+}
+
+.research-card.talks-card > h3 {
+  background: #fbf2e3;
+  border-bottom-color: #ecdcc0;
+}
+
+.talks-columns {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 28px;
+  padding: 4px 18px 8px;
+}
+
+.talks-columns h4 {
+  margin: 12px 0 6px;
+  font-size: 15px;
+  color: #7a5a2a;
+}
+
+.talks-columns ul {
+  padding-left: 18px;
+  font-size: 15px;
+}
+
+.talks-columns li {
+  margin-bottom: 8px;
+}
+
+@media only screen and (max-width: 767px) {
+  .card-grid,
+  .talks-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- Side callout (e.g. talks box beside the home page News list) --- */
+
+.side-callout {
+  float: right;
+  width: 230px;
+  margin: 0 0 16px 24px;
+  padding: 14px 16px;
+  border: 1px solid #dfe6ee;
+  border-radius: 10px;
+  background: #f4f7fa;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.side-callout p {
+  margin: 0;
+}
+
+@media only screen and (max-width: 600px) {
+  .side-callout {
+    float: none;
+    width: auto;
+    margin: 0 0 20px;
+  }
+}
+
+/* --- Home page: sidebar (CV, education, contact) beside photo and bio --- */
+
+.home-top {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  grid-template-areas:
+    "side heading"
+    "side bio";
+  grid-template-rows: auto 1fr;
+  column-gap: 36px;
+  align-items: start;
+  margin-bottom: 20px;
+}
+
+.home-top .home-sidebar { grid-area: side; }
+.home-top .home-heading { grid-area: heading; }
+.home-top .home-intro   { grid-area: bio; }
+
+/* name and tagline, left-aligned above the bio */
+.home-heading h1 {
+  margin: 0 0 4px;
+  font-size: 38px;
+}
+
+.home-heading .home-tagline {
+  margin: 0 0 22px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #555;
+}
+
+.home-sidebar {
+  padding: 18px 18px 6px;
+  border: 1px solid #dfe6ee;
+  border-radius: 10px;
+  background: #f7f9fb;
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.home-sidebar h4 {
+  margin: 18px 0 8px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #5a6b80;
+}
+
+.home-sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 12px;
+}
+
+.home-sidebar li {
+  margin-bottom: 8px;
+  overflow-wrap: anywhere;
+}
+
+/* headshot fills the sidebar's width */
+.home-sidebar .home-headshot {
+  float: none;
+  display: block;
+  width: 100%;
+  max-width: none;   /* the theme caps page images at 70% */
+  max-height: none;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  margin: 0 0 14px;
+}
+
+.home-sidebar > p:first-child {
+  margin: 0;
+}
+
+.home-sidebar .cv-link {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.home-top .home-intro p:first-of-type {
+  margin-top: 0;
+}
+
+@media only screen and (max-width: 767px) {
+  /* phones: name, then sidebar (photo, CV, education, contact), then bio */
+  .home-top {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "heading"
+      "side"
+      "bio";
+    grid-template-rows: auto;
+    row-gap: 24px;
+  }
+  .home-heading {
+    text-align: center;
+  }
+  .home-heading .home-tagline {
+    margin-bottom: 0;
+  }
+  .home-sidebar .home-headshot {
+    width: 160px;
+    margin: 0 auto 14px;
+  }
+}
+
 /* --- Home page intro --- */
 
 /* flow-root keeps the floated headshot inside the intro block */
@@ -468,8 +697,8 @@ footer .theme-by {
 
 .home-headshot {
   float: left;
-  width: 220px;
-  height: 220px;
+  width: 190px;
+  height: 190px;
   object-fit: cover;
   border-radius: 8px;
   margin: 4px 24px 12px 0;
@@ -615,16 +844,17 @@ footer .theme-by {
   margin: 20px 0 40px;
 }
 
-.press-item {
+.press-list > li {
   padding: 8px 0 8px 4px;
 }
 
-.press-item::marker {
+.press-list > li::marker {
   color: #5a6b80;
 }
 
-/* date and kind, after the text */
-.press-meta {
+/* the "(Month Year · Type)" at the end of each item */
+.press-list > li > em:last-child {
+  font-style: normal;
   color: #888;
   font-size: 0.85em;
   white-space: nowrap;

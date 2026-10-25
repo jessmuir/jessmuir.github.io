@@ -6,7 +6,8 @@ layout: base
 
 <div class="container" role="main">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    {%- comment -%} "wide: true" in a page's front matter gives it a wider column {%- endcomment %}
+    <div class="{% if page.wide %}col-lg-10 col-lg-offset-1 col-md-12{% else %}col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1{% endif %}">
       {{ content }}
 	    {% if page.comments %}
         <div class="disqus-comments">
