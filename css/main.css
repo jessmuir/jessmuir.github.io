@@ -698,7 +698,7 @@ footer .theme-by {
 
 /* News, under the bio */
 .home-top .home-intro h2 {
-  margin: 36px 0 0;
+  margin: 36px 0 10px;
   padding-top: 22px;
   border-top: 1px solid #eee;
   font-size: 26px;
@@ -869,6 +869,17 @@ footer .theme-by {
 .group-blurb {
   font-size: 15px;
   margin-top: 8px;
+}
+
+.alumni-list li {
+  margin-bottom: 6px;
+}
+
+.alumni-now {
+  display: block;
+  font-size: 13px;
+  color: #666;
+  margin-top: 2px;
 }
 
 /* --- Press --- */

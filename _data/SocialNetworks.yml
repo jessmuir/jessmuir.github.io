@@ -17,8 +17,8 @@ inspire:
   icon: "ai-inspire"
 
 ads:
-  name: "NASA ADS"
-  baseURL: "https://ui.adsabs.harvard.edu/public-libraries/"
+  name: "SciX"
+  baseURL: "https://scixplorer.org/public-libraries/"
   icon: "ai-ads"
 
 facebook:

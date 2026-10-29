@@ -11,7 +11,7 @@ own-heading: true
 
 {% include page-heading.html %}
 
-Below are news coverage, interviews, and other media featuring my research.
+Below are highlights of news coverage, interviews, and other media featuring my research or my perspectives on cosmology research. 
 
 <!-- Newest first. End each item with *(Month Year · Type)*; the page shows it small and grey. -->
 

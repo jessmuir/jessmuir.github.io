@@ -2,7 +2,8 @@
 # Add one entry per person. Only "name" is required.
 #   role:  e.g. "PhD student", "Postdoc", "Undergraduate researcher"
 #   photo: path to a square image, e.g. /img/group/jane.jpg (leave out to show initials)
-#   blurb: one or two sentences about their research
+#   blurb: one or two sentences about their research (current members);
+#           or where they are now, e.g. "Now: PhD student at MIT" (alumni)
 #   link:  personal website or profile
 # Set "alum: true" to list someone under Past mentees instead (newest first).
 
@@ -10,15 +11,23 @@
 
 - name: "Hunter Martin"
   role: "Postdoc"
+  blurb: "Cosmic voids, density split statistics. Simulation-based studies of the impact of survey systematics on void lensing measurements."
+  link: "https://cincinnati.discovery.symplectic.org/MARTIHU"
 
 - name: "Atlas Guyser"
   role: "PhD student"
+  blurb: "Improving large-scale modeling for galaxy clustering and weak lensing. Validating and improving non-limber projection calculations when the Universe has non-zero average spatial curvature."
+  link: "https://demo.uc.edu/researchdirectory/p/guyseram"
+  photo: "/img/group/1523GuyserAtlas7035.png"
 
 - name: "Steven Rieck"
   role: "PhD student"
+  link: "https://researchdirectory.uc.edu/p/riecksn"
+  blurb: "Making beyond-LambdaCDM analyses of galaxy clustering and weak lensing more robust. Fisher forecasts comparing methods for protecting against small-scale systematic errors for models without validated non-linear modeling."
+  photo: "/img/group/1593RieckSteven4586.jpg"
 
 - name: "Nova Bell"
-  role: "U. Cincinnati undergraduate capstone (Fall 2026)"
+  role: "Undergraduate capstone (Fall 2026)"
 
 - name: "Aiden Wesig"
   role: "Undergraduate researcher"
@@ -28,6 +37,7 @@
 - name: "Evan Howell"
   role: "U. Cincinnati undergraduate capstone (Fall 2025)"
   alum: true
+  blurb: "Now: Radiation control technician at Los Alamos National Laboratory."
 
 - name: "Laura Moser"
   role: "U. Cincinnati undergraduate capstone (Spring 2026)"
@@ -42,24 +52,34 @@
 - name: "Gautier Duchesne"
   role: "PSI START summer undergraduate research project, Perimeter Institute (2024)"
   alum: true
+  blurb: "Now: PhD student in condensed matter physics at the University of British Columbia."	
 
 
 - name: "Jordan Krywonos"
   role: "PhD student, Perimeter Institute; co-supervised with Matthew Johnson (2022–2024)"
   alum: true
+  blurb: "Now: Postdoctoral researcher at DAMTP, University of Cambridge."
+  link: "https://jkrywonos.github.io/"
 
 - name: "Oleksandra Hrytseniak"
   role: "Master's research, co-advised with Niayesh Afshordi (2022)"
   alum: true
+  blurb: "Now: PhD student at Perimeter Institute."	
 
 - name: "Yi Wang"
   role: "PSI START summer undergraduate research project and Dalhousie University bachelor's thesis (2022–2023)"
   alum: true
+  blurb: "Now: PhD student in condensed matter at Duke University."
+  link: "https://www.entropyi.com/"
+
 
 - name: "Javiera Hernández Morales"
   role: "Perimeter Scholars International Winter School project, co-supervised with Matthew Johnson (2022)"
   alum: true
+  link: "https://javihernandezm.github.io/"
+  blurb: "Now: PhD student in astrophysics at the University of Greifswald, Germany."
 
 - name: "Parth Garg"
   role: "Stanford Physics Undergraduate Summer Research Program (2020)"
   alum: true
+  blurb: "Now: Founder of banking tech startup, Aspora."

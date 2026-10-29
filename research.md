@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-subtitle: Testing cosmology and fundamental physics with galaxy surveys
 use-site-title: true
 hide-title: true
 own-heading: true
@@ -14,7 +13,7 @@ wide: true
 {% include page-heading.html %}
 
 <div class="page-notice" markdown="1">
-**Under construction:** This page is somewhat out of date and doesn't yet reflect my most recent work. For an up-to-date list of my publications, please see my [ADS bibliography](https://ui.adsabs.harvard.edu/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
+**Under construction:** This page is somewhat out of date and doesn't yet reflect my most recent work. For an up-to-date list of my publications, please see my [SciX bibliography](https://scixplorer.org/public-libraries/6-hOYpXQQ_2TVE--3e5bhA).
 </div>
 
 </div>
@@ -54,7 +53,7 @@ Most analyses of the distribution of matter and galaxies in the Universe capture
 [(beyond-LCDM paper)](https://arxiv.org/abs/2207.05766) [(LCDM paper)](https://arxiv.org/abs/2105.13549)
 {: .card-links}
 
-The Dark Energy Survey (DES) is an ongoing project to map the distribution of matter in the Universe using measurements of galaxy shapes and positions over 1/8th of the sky, and to use that survey to place constraints on the properties of dark energy and other aspects of our cosmological model. I've contributed in a variety of ways to the modeling infrastructure and analysis for the DES Year 1, Year 3, and ongoing Year 6 cosmology analyses. Most significantly, with [Agnes Ferte (SLAC)](https://www.agnesferte.com/), I  co-led the DES Y3 galaxy clustering and weak lensing analysis of models beyond-ΛCDM. In that work we studied time-dependent dark energy, sterile neutrinos, modified gravity, non-zero curvature, and a non-parametric measurement of large scale structure growth.
+The Dark Energy Survey (DES) is an ongoing project to map the distribution of matter in the Universe using measurements of galaxy shapes and positions over 1/8th of the sky, and to use that survey to place constraints on the properties of dark energy and other aspects of our cosmological model. I've contributed in a variety of ways to the modeling infrastructure and analysis for the DES Year 1, Year 3, and ongoing Year 6 cosmology analyses. Most significantly, with [Agnes Ferte (SLAC)](https://www.agnesferte.com/), I co-led the DES Y3 galaxy clustering and weak lensing analysis of models beyond-ΛCDM. In that work we studied time-dependent dark energy, sterile neutrinos, modified gravity, non-zero curvature, and a non-parametric measurement of large scale structure growth.
 </div>
 
 <div class="research-card" markdown="1">
@@ -66,7 +65,7 @@ The Dark Energy Survey (DES) is an ongoing project to map the distribution of ma
 [(paper)](https://arxiv.org/abs/1911.05929)
 {: .card-links}
 
-As cosmological experiments grow increasingly precise, it is important to protect their results from a variety of systematic biases, including those that experimenters might unconsciously introduce.  Blind analysis is a framework of experimental design in which data are manipulated to conceal an analysis' true results until all decisions about how to conduct it are finalized. I led the implementation and testing for a new, generally applicable blinding method that works by transforming the summary statistics that are inputs for parameter estimation (for DES, these are galaxy clustering and shear two-point angularcorrelation functions). This method was used in the the  DES Year 3 combined analysis of galaxy clustering and weak lensing, will be applied as part of [Rubin Observatory LSST DESC](https://lsstdesc.org/) cosmology analyses.
+As cosmological experiments grow increasingly precise, it is important to protect their results from a variety of systematic biases, including those that experimenters might unconsciously introduce.  Blind analysis is a framework of experimental design in which data are manipulated to conceal an analysis' true results until all decisions about how to conduct it are finalized. I led the implementation and testing for a new, generally applicable blinding method that works by transforming the summary statistics that are inputs for parameter estimation (for DES, these are galaxy clustering and shear two-point angular correlation functions). This method was used in the DES Year 3 combined analysis of galaxy clustering and weak lensing, will be applied as part of [Rubin Observatory LSST DESC](https://lsstdesc.org/) cosmology analyses.
 </div>
 
 <div class="research-card" markdown="1">
@@ -75,7 +74,7 @@ As cosmological experiments grow increasingly precise, it is important to protec
 [(paper)](https://arxiv.org/abs/2010.05924)
 {: .card-links}
 
-Many models of modified gravity can produce the same expansion history as LCDM, the standard cosmological model of a cosmological constant + cold dark matter + general relativity, but will differ in their predictions for the evolution of large scale structure growth. The idea of a grow-geometry split analysis is to separately constrain cosmological parameters using measurements of expansion and structure growth, and then to test the consistency of those constraints. I performed a growth geometry split analysis of DES Year 1 data.   I'm also generally interested in using galaxy survey data to test for modified gravity via phenomenological parameterizations of deviations from general relativity.
+Many models of modified gravity can produce the same expansion history as LCDM, the standard cosmological model of a cosmological constant + cold dark matter + general relativity, but will differ in their predictions for the evolution of large scale structure growth. The idea of a growth-geometry split analysis is to separately constrain cosmological parameters using measurements of expansion and structure growth, and then to test the consistency of those constraints. I performed a growth geometry split analysis of DES Year 1 data.   I'm also generally interested in using galaxy survey data to test for modified gravity via phenomenological parameterizations of deviations from general relativity.
 </div>
 
 <div class="research-card" markdown="1">
@@ -105,7 +104,7 @@ When CMB photons pass through large scale structure, their energy gets modulated
 [(paper)](http://arxiv.org/abs/1402.4737)
 {: .card-links}
 
-For a master's project,  I did an exploratory study of how the infall of objects into black holes would be affected by a class of extensions to general relativity in which a new gravitational field interacts with matter in the black hole's accretion disk.
+For a master's project, I did an exploratory study of how the infall of objects into black holes would be affected by a class of extensions to general relativity in which a new gravitational field interacts with matter in the black hole's accretion disk.
 </div>
 
 <div class="research-card" markdown="1">
@@ -130,9 +129,10 @@ Though I can't really claim it as a project, I was lucky enough to be on observi
 <div markdown="1">
 #### Technical
 
+* [**"Introduction to photometric galaxy surveys"**](https://online.kitp.ucsb.edu/online/cmblss26/muir/) **(Workshop talk, 50m)** - This is a review talk about galaxy imaging surveys that I gave in February 2026, as part of the [KITP workshop](https://www.kitp.ucsb.edu/activities/cmblss26), "Exploring New Boundaries in Cosmology and Astrophysics: Cosmic Microwave Background and Large Scale Structure Surveys."
 * [**"Exploring the expanding Universe with the Dark Energy Survey"**](https://pirsa.org/25030060) **(Conference talk, 40m)** - This is a recording of an invited talk on my work with others in DES analyzing BAO and supernovae, presented to a room of quantum gravity researchers at the Emmy Noether Workshop on Quantum Space Time, at Perimeter Institute in March 2025. 
-* [**"Testing the standard cosmological model with the Dark Energy Survey"**](https://www.youtube.com/watch?v=SeVaV2DD7xo&ab_channel=CITAPresentations) **(Seminar, 1hr)** This is a recording of my talk at the CITA seminar in early October 2022. 
-* [**"DES Y3 Constraints on Beyond-ΛCDM Models with Weak Lensing & Clustering"**](https://www.youtube.com/watch?v=Bsf5RTo1bxc&ab_channel=CosmologyfromHome) **(Conference talk, 40m)** - This is a plenary talk that I gave with Agnès Ferté for the 2022 [Cosmology From Home](https://www.cosmologyfromhome.com/) conference. In it, we give an overview of [the DES Y3 key paper](https://arxiv.org/abs/2207.05766) reporting the analysis we co-led constraining several kinds of physics beyond the standard cosmological model. 
+
+ 
 
 </div>
 </div>
