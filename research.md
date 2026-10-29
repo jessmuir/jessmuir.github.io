@@ -24,7 +24,7 @@ wide: true
 
 Public lectures, a podcast, and research talks on cosmology and dark energy.
 
-[Watch recordings &darr;](#recorded-talks)
+[Watch recordings &darr;](#talks-section)
 
 </div>
 </div>
@@ -116,6 +116,7 @@ Though I can't really claim it as a project, I was lucky enough to be on observi
 
 <div class="research-card talks-card" markdown="1">
 ### Recorded talks
+{: #talks-section}
 
 <div class="talks-columns" markdown="1">
 <div markdown="1">

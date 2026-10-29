@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Press
-subtitle: Interviews, press releases, and media coverage
 use-site-title: true
 hide-title: true
 own-heading: true
@@ -12,21 +11,7 @@ own-heading: true
 
 {% include page-heading.html %}
 
-I'm happy to talk with reporters and science writers about science, and especially about cosmology, including topics like dark energy, the large-scale structure of the Universe, and what galaxy surveys like the Dark Energy Survey and Rubin Observatory's LSST can tell us about fundamental physics.
-
 Below are news coverage, interviews, and other media featuring my research.
-
-</div>
-<div class="side-box" markdown="1">
-
-#### Media inquiries
-
-Reporters and science writers are welcome to get in touch by email:
-
-[muirjc@ucmail.uc.edu](mailto:muirjc@ucmail.uc.edu)
-
-</div>
-</div>
 
 <!-- Newest first. End each item with *(Month Year · Type)*; the page shows it small and grey. -->
 
@@ -37,7 +22,19 @@ Reporters and science writers are welcome to get in touch by email:
 * I was interviewed about recent dark energy results for an [article on Astronomy.com](https://www.astronomy.com/science/dark-energy-may-be-changing-over-time/) by Mackenzie White. *(April 2025 · Interview)*
 * Cosmology results from expansion history probes (BAO and supernovae) from the completed Dark Energy Survey, which I contributed to obtaining and presented on behalf of the DES collaboration at the APS Global Physics Summit, are summarized in a [DES press release](https://www.darkenergysurvey.org/a-new-study-reveals-potential-inconsistencies-in-the-current-standard-cosmological-paradigm/) and a [NOIRLab press release](https://noirlab.edu/public/news/noirlab2513/). Press coverage included [phys.org](https://phys.org/news/2025-03-latest-dark-energy-survey-variations.html) and [IFLScience](https://www.iflscience.com/dark-energy-might-be-changing-this-is-what-it-means-for-our-understanding-of-the-cosmos-78554). *(March 2025 · Press release)*
 * I was interviewed by Rebecca Boyle for a [Scientific American article](https://www.scientificamerican.com/article/dark-energy-measurements-suggest-the-universe-might-be-way-weirder-than-we/) reporting on models of dark energy beyond the cosmological constant. *(August 2024 · Interview)*
+* I was interviewed for the [*Cosmology 101 with Katie Mack*](https://www.youtube.com/@cosmology101) YouTube series about dark energy and the large-scale structure of the Universe. *(August 2024 · Interview)*
 * My artwork was featured in an [article on recent cosmology results](https://lsa.umich.edu/lsa/news-events/lsa-magazine/spring-2024/more-stories/shedding-light-on-dark-matter-and-dark-energy.html) in the University of Michigan LSA alumni magazine. *(May 2024 · Artwork)*
+* I was interviewed about cosmology for the TV Ontario spring telethon. *(March 2024 · Interview)*
 * The Dark Energy Survey Year 3 beyond-LCDM key paper, which is the product of an analysis I co-led, was highlighted in a [Perimeter Institute press release](https://insidetheperimeter.ca/putting-dark-energy-to-the-test/). *(April 2023 · Press release)*
 * A [NASA JPL press release](https://www.jpl.nasa.gov/news/nasa-scientists-help-probe-dark-energy-by-testing-gravity) highlighted the [DES Year 3 galaxy clustering and weak lensing analysis of models beyond-LCDM](https://arxiv.org/abs/2207.05766) that I co-led, mentioning the plenary talk I gave on the study at the [COSMO'22 conference](https://indico.cern.ch/event/886404/) in Rio de Janeiro, Brazil. *(August 2022 · Press release)*
 {: .press-list}
+
+</div>
+<div class="side-box" markdown="1">
+
+I'm happy to talk with reporters and science writers about science, and especially about cosmology, including topics like dark energy, the large-scale structure of the Universe, and what galaxy surveys like the Dark Energy Survey and Rubin Observatory's LSST can tell us about fundamental physics.
+
+[muirjc@ucmail.uc.edu](mailto:muirjc@ucmail.uc.edu)
+
+</div>
+</div>

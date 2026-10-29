@@ -6,20 +6,43 @@
 #   link:  personal website or profile
 # Set "alum: true" to list someone under Past mentees instead (newest first).
 
-- name: "PLACEHOLDER Student Name"
-  role: "PhD student"
-  blurb: "PLACEHOLDER: one or two sentences about their research."
-  link:
+# Current members
 
-# Past mentees, from the Research Mentoring section of the Jan 2025 CV
+- name: "Hunter Martin"
+  role: "Postdoc"
+
+- name: "Atlas Guyser"
+  role: "PhD student"
+
+- name: "Steven Rieck"
+  role: "PhD student"
+
+- name: "Nova Bell"
+  role: "U. Cincinnati undergraduate capstone (Fall 2026)"
+
+- name: "Aiden Wesig"
+  role: "Undergraduate researcher"
+
+# UC undergraduate alumni
+
+- name: "Evan Howell"
+  role: "U. Cincinnati undergraduate capstone (Fall 2025)"
+  alum: true
+
+- name: "Laura Moser"
+  role: "U. Cincinnati undergraduate capstone (Spring 2026)"
+  alum: true
+
+- name: "Joshua Tiju"
+  role: "U. Cincinnati undergraduate capstone (Spring 2026)"
+  alum: true
+
+# Past mentees (pre-UC), from the Research Mentoring section of the CV
 
 - name: "Gautier Duchesne"
   role: "PSI START summer undergraduate research project, Perimeter Institute (2024)"
   alum: true
 
-- name: "Paul Rogozenski"
-  role: "PhD student, University of Arizona; advised on a DES Y3 follow-up project (from 2022)"
-  alum: true
 
 - name: "Jordan Krywonos"
   role: "PhD student, Perimeter Institute; co-supervised with Matthew Johnson (2022–2024)"

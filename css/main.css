@@ -610,30 +610,36 @@ footer .theme-by {
   display: grid;
   grid-template-columns: 250px minmax(0, 1fr);
   grid-template-areas:
-    "side heading"
     "side bio";
-  grid-template-rows: auto 1fr;
+  grid-template-rows: auto;
   column-gap: 36px;
   align-items: start;
   margin-bottom: 20px;
 }
 
 .home-top .home-sidebar { grid-area: side; }
-.home-top .home-heading { grid-area: heading; }
 .home-top .home-intro   { grid-area: bio; }
 
-/* name and tagline, left-aligned above the bio */
-.home-heading h1 {
-  margin: 0 0 4px;
-  font-size: 38px;
+/* name and tagline, in the sidebar above the headshot */
+.home-name-block {
+  margin: 0 0 14px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid #dfe6ee;
 }
 
-.home-heading .home-tagline {
-  margin: 0 0 22px;
+.home-name-block h1 {
+  margin: 0 0 4px;
+  font-size: 22px;
+  line-height: 1.2;
+}
+
+.home-name-block .home-tagline {
+  margin: 0;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 13px;
   font-weight: 300;
   color: #555;
+  line-height: 1.4;
 }
 
 .home-sidebar {
@@ -699,21 +705,17 @@ footer .theme-by {
 }
 
 @media only screen and (max-width: 767px) {
-  /* phones: name, then sidebar (photo, CV, education, contact), then bio */
+  /* phones: sidebar (name, photo, CV, education, contact), then bio */
   .home-top {
     grid-template-columns: 1fr;
     grid-template-areas:
-      "heading"
       "side"
       "bio";
     grid-template-rows: auto;
     row-gap: 24px;
   }
-  .home-heading {
+  .home-name-block {
     text-align: center;
-  }
-  .home-heading .home-tagline {
-    margin-bottom: 0;
   }
   .home-sidebar .home-headshot {
     width: 160px;
