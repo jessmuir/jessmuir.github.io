@@ -12,7 +12,7 @@ where indentation and quotes matter (see [Tips](#tips) at the end).
 ## Contents
 
 1. [Preview your changes locally](#1-preview-your-changes-locally)
-2. [Home page: bio, photo, CV, contact, news](#2-home-page)
+2. [Home page: bio, photo, CV, contact, news, teaching](#2-home-page)
 3. [Add a press item](#3-add-a-press-item)
 4. [Add a cartoon](#4-add-a-cartoon)
 5. [Add or update a group member](#5-add-or-update-a-group-member)
@@ -28,7 +28,7 @@ where indentation and quotes matter (see [Tips](#tips) at the end).
 From the site folder in Terminal:
 
 ```bash
-PATH=/opt/homebrew/opt/ruby/bin:$PATH bundle exec jekyll serve
+bash serve.sh
 ```
 
 Then open <http://localhost:4000>. Saving a file rebuilds the site; refresh
@@ -38,8 +38,8 @@ the browser to see it (use **Cmd+Shift+R** if styling looks stale).
 title) are only read at startup. Stop the server with **Ctrl+C** and run the
 command again.
 
-> Use Homebrew's Ruby as above. The Anaconda Ruby that is first on this
-> Mac's PATH can't install the site's gems.
+If you open a new terminal window and the `ruby` or `bundle` command isn't
+found, run `source ruby-env.sh` first to load the right Ruby environment.
 
 ---
 
@@ -50,18 +50,21 @@ File: **`index.md`**
 The top of the page has two parts, side by side on desktop (stacked on
 phones):
 
-- **Left sidebar** (`<div class="home-sidebar" markdown="1">`): photo, CV
-  link, Education, and Contact.
-- **Right** (`<div class="home-intro" markdown="1">`): the bio.
+- **Left sidebar** (`<div class="home-sidebar" markdown="1">`): name,
+  tagline, photo, CV link, Education, and Contact.
+- **Right** (`<div class="home-intro" markdown="1">`): the bio, Teaching
+  section, and News section.
 
 Keep each block's `markdown="1"`, the blank lines inside, and its closing
 `</div>`.
 
-The **name and tagline** above the bio come from `title:` and `subtitle:`
-at the top of `index.md`; edit them there.
+### Name and tagline
+These come from `title:` and `subtitle:` in the front matter at the top of
+`index.md`. They are displayed in the sidebar above the photo.
 
 ### Bio
-Edit the paragraphs inside the `home-intro` block.
+Edit the paragraphs inside the `home-intro` block, before the `## Teaching`
+heading.
 
 ### Education and contact
 Bullets in the sidebar. An education entry is the degree in bold, then
@@ -74,7 +77,7 @@ Bullets in the sidebar. An education entry is the degree in bold, then
 ### Photo
 1. Put a square photo in `img/` (about 1200×1200 px keeps it sharp but fast).
 2. In `index.md`, change `src="/img/headshot_uc_2026.jpg"` in the `<img>` tag
-   at the top of the sidebar.
+   in the sidebar.
 3. Also change `share-img:` at the top of the file (the image shown when the
    site is shared on social media or in messages).
 
@@ -84,10 +87,23 @@ sips -Z 1200 "path/to/original.jpg" --out img/new-headshot.jpg
 ```
 
 ### CV
-1. Put the new PDF in the site's top folder, e.g. `Muir-CV-2026.pdf`.
+1. Put the new PDF in the site's top folder, e.g. `Muir-CV-2027.pdf`.
 2. In `index.md`, update the CV link in the sidebar:
-   `[CV (PDF)](Muir-CV-2026.pdf)` (keep the `{: .cv-link}` line under it).
+   `[CV (PDF)](Muir-CV-2027.pdf)` (keep the `{: .cv-link}` line under it).
 3. Optionally delete the old PDF.
+
+### Teaching
+Under `## Teaching` in the `home-intro` block. Each course is a top-level
+bullet with semester sub-bullets:
+
+```markdown
+* **PHYS XXXX/XXXX: Course Name** *(cross-listed name)*
+  * Fall 2026
+  * Fall 2027
+```
+
+Add a new semester by adding a sub-bullet. Add a new course by adding a new
+top-level bullet.
 
 ### News item
 Add a bullet at the **top** of the list under `## News and updates`:
@@ -169,7 +185,8 @@ File: **`_data/group.yml`** (a YAML data file; the Group page, `group.md`,
 reads it automatically)
 
 ### Current member
-Add an entry like this (two spaces before each field, no tabs):
+Add an entry in the `# Current members` section (two spaces before each
+field, no tabs):
 
 ```yaml
 - name: "Jane Doe"
@@ -180,28 +197,34 @@ Add an entry like this (two spaces before each field, no tabs):
 ```
 
 - Only `name` is required. Leave out `photo` to show the person's initials.
-- Photos: square images in `img/group/` (create the folder the first time).
-  About 400×400 px is plenty.
+- Photos: square images in `img/group/`. About 400×400 px is plenty.
 - `link` turns the name into a link to their website.
-- **Remove the `PLACEHOLDER Student Name` entry** once you add a real member.
+- `blurb` shows as a short description under the role on the group page.
 
 ### Past mentee / alum
 Add `alum: true`. They are then listed under **Past mentees** instead of
-getting a card:
+getting a card. For UC undergrads, put them in the `# UC undergraduate alumni`
+section; for pre-UC mentees, in `# Past mentees (pre-UC)`:
 
 ```yaml
 - name: "John Smith"
-  role: "Undergraduate capstone project (2026)"
+  role: "U. Cincinnati undergraduate capstone (Spring 2027)"
   alum: true
+  blurb: "Now: PhD student in physics at MIT."
 ```
 
-When a current member leaves, add `alum: true` and update their `role`.
-Past mentees are listed in the order they appear in the file, so keep the
-newest first.
+- For alumni, `blurb` is used for a "where are they now" line, shown in
+  small text below their entry. Start it with `"Now: "` for consistency.
+- Past mentees appear in the order they are listed in the file; keep the
+  most recent first within each section.
+
+When a current member leaves, add `alum: true`, update their `role` to
+include the years, and add a `blurb` with their current position.
 
 ### Group page text
-The intro paragraphs, the note about other UC astrophysics groups, and the
-**Prospective students** section are plain Markdown in **`group.md`**.
+The intro paragraph and the **Joining the group** side box are in
+**`group.md`**. The side box covers PhD admissions and undergraduate
+opportunities.
 
 ---
 
@@ -217,7 +240,7 @@ existing block, paste it where you want it in the order, and edit:
 <div class="research-card" markdown="1">
 ### Project title
 
-![Short description of the figure](/img/research/my-figure.png)
+[![Short description of the figure](/img/research/my-figure.png)](/link-to-cartoon-page/)
 {: .card-figure}
 
 [(paper)](https://arxiv.org/abs/XXXX.XXXXX)
@@ -232,8 +255,6 @@ One or two paragraphs describing the project.
   (never cropped), centered, and at most 240 px tall, so wide plots and
   diagrams work best. Put new figures in `img/research/` (create the folder
   the first time), or reuse a cartoon from `cartoons/images/`.
-  To make the figure link somewhere (e.g. to its cartoon page), wrap it:
-  `[![description](/cartoons/images/Extensions.jpg)](/2022-07-14-y3ext-darkbite/)`.
 - **Paper links (optional):** the links line and the `{: .card-links}` line
   under it. Delete both if there are no links. Several links can go on one
   line: `[(paper 1)](...) [(paper 2)](...)`.
@@ -274,13 +295,12 @@ editing `_config.yml`.)*
 
 ### Page headings and side boxes (Group, Press, Cartoons)
 These pages start with a left-aligned name and tagline, then the intro text
-with a small box beside it ("Join the group", "Media inquiries", "Using these
-images").
+with a small box beside it.
 
 - **Name and tagline:** `title:` and `subtitle:` in the page's front matter.
   The line `{% raw %}{% include page-heading.html %}{% endraw %}` displays them.
 - **Side box text:** inside `<div class="side-box" markdown="1">` near the
-  top of the page. Its small heading is the `#### ...` line.
+  top of the page.
 
 ### Add a new page
 Create e.g. `teaching.md` in the top folder:
@@ -302,15 +322,14 @@ Page content in Markdown.
 - `title` is used for the heading and the browser tab ("Teaching | Jessie Muir").
 - `subtitle` is the tagline under the heading (optional).
 - `hide-title` and `own-heading` replace the theme's large centered header
-  with the left-aligned heading. For a plain page with no heading at all,
-  keep only `hide-title: true` and leave out the `include` line.
+  with the left-aligned heading.
 
 To add a side box next to the intro, copy the `<div class="page-top" ...>`
 block from the top of `press.md` and edit it.
 - Add `wide: true` for a wider text column (used on the Research page).
 - Add it to `navbar-links` in `_config.yml` to put it in the menu.
 
-### Footer icons (email, GitHub, ORCID, ...)
+### Footer icons (email, GitHub, ORCID, SciX, ...)
 In **`_config.yml`**, under `social-network-links:`. Remove a link by
 putting `#` at the start of its line; the order of the lines is the order
 of the icons. Each name must match an entry in `_data/SocialNetworks.yml`,
@@ -321,20 +340,21 @@ which sets its web address and icon.
 ## 8. Publish your changes
 
 The live site is built by GitHub Pages from the **`master`** branch.
-Redesign work is on the **`redesign`** branch until it's merged.
 
 ```bash
 git status
 git add -A
-git commit -m "Add October 2026 press item"
+git commit -m "Short description of what changed"
 git push
 ```
 
 `git add -A` adds everything that changed, including new images. Check
-`git status` first so you don't commit things you didn't mean to (like the
-`_site/` build folder or editor backup files ending in `~`).
+`git status` first so you don't commit things you didn't mean to (the
+`_site/` build folder, editor backup files ending in `~`, or `#Gemfile#`).
 
-The live site usually updates within a few minutes of pushing to `master`.
+The live site usually updates within a few minutes of pushing. If the
+styling looks unchanged after pushing, try a hard refresh in the browser:
+**Cmd+Shift+R** on Mac or **Ctrl+Shift+R** on PC.
 
 ---
 
