@@ -20,8 +20,8 @@ description: Cosmologist, University of Cincinnati
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
   Group: "group"
+  Research: "research"
   Press: "press"
   Cartoons: "cartoons"
 
